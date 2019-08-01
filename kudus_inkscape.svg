@@ -20,8 +20,7 @@
    id="svg20643"
    sodipodi:docname="kudus Inkscape.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="184.20102"
-   height="100.00099"><metadata
+><metadata
    id="metadata20649"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -31,14 +30,6 @@
      style="stop-color:#000000;stop-opacity:1;"
      offset="0"
      id="stop22678" /></linearGradient>
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 <linearGradient
@@ -62,13 +53,13 @@
    inkscape:window-height="1137"
    id="namedview20645"
    showgrid="false"
-   inkscape:zoom="2.8284271"
-   inkscape:cx="51.918887"
-   inkscape:cy="137.19596"
+   inkscape:zoom="5.6568543"
+   inkscape:cx="115.82944"
+   inkscape:cy="42.271535"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg20643" />
+   inkscape:current-layer="girder" />
 <g
    id="rail"
    transform="translate(-329.39949,-246.7995)"
@@ -867,208 +858,109 @@
 <g
    id="girder"
    transform="translate(-329.39949,-246.7995)"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><path
+   id="path20546"
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 506.9,280.3 h -5.4 l -3,-0.1 H 498 l -3.5,-0.1 -3.5,-0.1 h -1.5 l -2,-0.1 -3.5,-0.1 -3.5,-0.1 -3,-0.1 -4,-0.1 -3.5,-0.1 -3.5,-0.1 h -1 l -2.5,-0.1 h -0.8 -0.7 -0.8 -0.7 l -3.5,-0.1 -3,-0.1 -4,-0.1 -3.5,-0.1 -3.5,-0.1 h -1 -2.5 -3.5 -3.5 -2.5 -1 -3.5 -3.5 -3.5 -3.5 -1 -2.5 -3.5 -3.5 -2.5 -1 l -3.5,0.1 -3.5,0.1 -3.5,0.1 h -0.5 l -3,0.1 -3.5,0.1 h -0.8 -0.7 -0.8 -0.7 l -2.5,0.1 h -1 l -3.5,0.1 -3.5,0.1 -4,0.1 -3,0.1 -3.5,0.1 -3.5,0.1 -2,0.1 H 352 l -3.5,0.1 -3.5,0.1 h -0.5 l -3,0.1 h -5.4 v 2 h 5.4 c 1,0 2,0 3,0 3,0 6,0 9,0.1 4,0.1 8,0.2 12,0.3 4,0.1 8,0.3 12,0.5 1.1,0.1 2.2,0.1 3.3,0.2 h 1.5 c 2.4,-0.4 4.8,-0.7 7.3,-1 4,-0.5 8,-0.9 12,-1.2 4,-0.3 8,-0.5 12,-0.6 2.7,-0.1 5.3,-0.1 8,-0.1 2.7,0 5.3,0 8,0.1 4,0.1 8,0.3 12,0.6 4,0.3 8,0.7 12,1.2 2.4,0.3 4.8,0.6 7.3,1 h 1.5 c 1.1,-0.1 2.2,-0.1 3.3,-0.2 4,-0.2 8,-0.4 12,-0.5 4,-0.1 8,-0.2 12,-0.3 3,0 6,-0.1 9,-0.1 1,0 2,0 3,0 h 5.4 v -2 z m -8.4,-0.1 v 2.09998 M 489.5,280 v 2.39999 m -12,-2.79998 v 3.1 m -12,-3.5 v 4 m -12,-4.30002 v 3.5 m -12,-3.69998 v 2.5 M 429.5,278.5 v 2.10001 M 413.5,278.5 v 2.10001 m -12,-1.9 v 2.59998 m -12,-2.4 v 3.5 m -12,-3.19998 v 4 m -12,-3.6 v 3.1 M 353.5,280 v 2.39999 m -9,-2.19998 v 2.09998"
+   inkscape:connector-curvature="0" />
 	<g
    id="LINE_1_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="344.5"
-   y1="280.20001"
-   x2="344.5"
-   y2="282.29999"
-   id="line20504"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_2_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="353.5"
-   y1="280"
-   x2="353.5"
-   y2="282.39999"
-   id="line20507"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_3_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="365.5"
-   y1="279.60001"
-   x2="365.5"
-   y2="282.70001"
-   id="line20510"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_4_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="377.5"
-   y1="279.20001"
-   x2="377.5"
-   y2="283.20001"
-   id="line20513"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_5_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="389.5"
-   y1="278.89999"
-   x2="389.5"
-   y2="282.39999"
-   id="line20516"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_6_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="401.5"
-   y1="278.70001"
-   x2="401.5"
-   y2="281.29999"
-   id="line20519"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_7_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="413.5"
-   y1="278.5"
-   x2="413.5"
-   y2="280.60001"
-   id="line20522"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_8_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="429.5"
-   y1="278.5"
-   x2="429.5"
-   y2="280.60001"
-   id="line20525"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_9_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="441.5"
-   y1="278.70001"
-   x2="441.5"
-   y2="281.20001"
-   id="line20528"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_10_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="453.5"
-   y1="278.89999"
-   x2="453.5"
-   y2="282.39999"
-   id="line20531"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_11_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="465.5"
-   y1="279.20001"
-   x2="465.5"
-   y2="283.20001"
-   id="line20534"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_12_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="477.5"
-   y1="279.60001"
-   x2="477.5"
-   y2="282.70001"
-   id="line20537"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_13_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="489.5"
-   y1="280"
-   x2="489.5"
-   y2="282.39999"
-   id="line20540"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LINE_14_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<line
-   stroke-miterlimit="10"
-   x1="498.5"
-   y1="280.20001"
-   x2="498.5"
-   y2="282.29999"
-   id="line20543"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 	<g
    id="LWPOLYLINE_3_"
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff0000;fill-opacity:0.68000001;stroke:#000000;stroke-opacity:1;fill-rule:nonzero">
+   style="fill:#ff0000;fill-opacity:0.68000034;fill-rule:nonzero;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
 		
-			<path
-   stroke-miterlimit="10"
-   d="m 506.9,280.3 h -5.4 l -3,-0.1 H 498 l -3.5,-0.1 -3.5,-0.1 h -1.5 l -2,-0.1 -3.5,-0.1 -3.5,-0.1 -3,-0.1 -4,-0.1 -3.5,-0.1 -3.5,-0.1 h -1 l -2.5,-0.1 h -0.8 -0.7 -0.8 -0.7 l -3.5,-0.1 -3,-0.1 -4,-0.1 -3.5,-0.1 -3.5,-0.1 h -1 -2.5 -3.5 -3.5 -2.5 -1 -3.5 -3.5 -3.5 -3.5 -1 -2.5 -3.5 -3.5 -2.5 -1 l -3.5,0.1 -3.5,0.1 -3.5,0.1 h -0.5 l -3,0.1 -3.5,0.1 h -0.8 -0.7 -0.8 -0.7 l -2.5,0.1 h -1 l -3.5,0.1 -3.5,0.1 -4,0.1 -3,0.1 -3.5,0.1 -3.5,0.1 -2,0.1 H 352 l -3.5,0.1 -3.5,0.1 h -0.5 l -3,0.1 h -5.4 v 2 h 5.4 c 1,0 2,0 3,0 3,0 6,0 9,0.1 4,0.1 8,0.2 12,0.3 4,0.1 8,0.3 12,0.5 1.1,0.1 2.2,0.1 3.3,0.2 h 1.5 c 2.4,-0.4 4.8,-0.7 7.3,-1 4,-0.5 8,-0.9 12,-1.2 4,-0.3 8,-0.5 12,-0.6 2.7,-0.1 5.3,-0.1 8,-0.1 2.7,0 5.3,0 8,0.1 4,0.1 8,0.3 12,0.6 4,0.3 8,0.7 12,1.2 2.4,0.3 4.8,0.6 7.3,1 h 1.5 c 1.1,-0.1 2.2,-0.1 3.3,-0.2 4,-0.2 8,-0.4 12,-0.5 4,-0.1 8,-0.2 12,-0.3 3,0 6,-0.1 9,-0.1 1,0 2,0 3,0 h 5.4 v -2 z"
-   id="path20546"
-   inkscape:connector-curvature="0"
-   style="fill:#ff0000;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.68000001;stroke-opacity:1;fill-rule:nonzero" />
+			
 	</g>
 </g>
 <g
-   style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:0.8,1.6;stroke:#000000;stroke-opacity:1;stroke-dashoffset:0"
+   style="stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:0.8, 1.6;stroke-dashoffset:0;stroke-opacity:1"
    id="LINE_63_"
    transform="translate(-329.39949,-246.7995)">
 		
 			<line
-   style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8,1.6;stroke-opacity:1;stroke-dashoffset:0"
+   style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 1.6;stroke-dashoffset:0;stroke-opacity:1"
    id="line20550"
    y2="346.79999"
    x2="381.5"
@@ -1431,4 +1323,6 @@
    style="fill:none;stroke:#808080;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
 	</g>
 </g>
+	<path id="curve_dyn" d="M 7.13,60 C 11.63,61 20.63,65 29.63,65 C 38.629999999999995,65 39.63,63.400000000000006 52.13,60 C 64.63,56.6 76.13,48 92.13,48 C 108.13,48 119.63,56 132.13,60 C 144.63,64 145.63,68 154.63,68 C 163.63,68 172.63,61.6 177.13,60" fill="none" stroke="grey" />
+<path id="dots" />
 </svg>
