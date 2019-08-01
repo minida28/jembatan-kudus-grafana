@@ -484,4 +484,6 @@
 			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="184.61" y1="79.03" x2="184.61" y2="81.68"/>
 	</g>
 </g>
+<path id="curve_dyn" d="M 7.13,60 C 11.63,61 20.63,65 29.63,65 C 38.629999999999995,65 39.63,63.400000000000006 52.13,60 C 64.63,56.6 76.13,48 92.13,48 C 108.13,48 119.63,56 132.13,60 C 144.63,64 145.63,68 154.63,68 C 163.63,68 172.63,61.6 177.13,60" fill="none" stroke="grey" />
+<path id="dots" />
 </svg>
