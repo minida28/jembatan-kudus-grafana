@@ -4,7 +4,7 @@ var val0 = ctrl.series[0].datapoints[0][0];
 // val0 = Number(val0.toFixed(2));
 
 console.log(val0);
-
+//
 var val1 = ctrl.series[1].datapoints[0][0];
 // val1 = Number(val1.toFixed(2))/2;
 
