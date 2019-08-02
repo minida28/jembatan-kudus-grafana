@@ -1,0 +1,435 @@
+<svg width="1900.7" height="1047.2" enable-background="new 0 0 841.89 595.28" version="1.1" viewBox="0 0 1900.7 1047.2" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="-22.25" x2="63.25" y1="166.59" y2="166.59" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e3dbdb" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g stroke-width="1.5">
+  <g id="LWPOLYLINE" transform="translate(529.86 225.82)">
+   <polyline points="-432.54 105.33 -379.61 105.33 -349.76 104.43 -344.71 104.28 -309.71 103.23 -274.71 102.18 -259.76 101.73 -239.71 101.13 -204.71 100.08 -169.71 99.03 -139.76 98.13 -99.71 96.93 -64.71 95.88 -29.71 94.83 -19.76 94.53 5.29 93.78 12.74 93.56 20.29 93.33 27.74 93.11 35.3 92.89 70.31 91.92 100.37 91.17 105.33 91.05 140.35 90.27 175.37 89.58 210.39 88.98 220.35 88.84 245.4 88.48 280.42 88.06 315.44 87.74 340.4 87.58 350.46 87.51 385.48 87.37 420.5 87.33 455.52 87.37 490.53 87.51 500.5 87.58 525.55 87.74 560.57 88.06 595.59 88.48 620.55 88.84 630.61 88.98 665.63 89.58 700.65 90.27 740.72 91.18 770.68 91.92 805.7 92.89 813.16 93.11 820.71 93.33 828.16 93.55 835.71 93.78 860.66 94.53 870.71 94.83 905.71 95.88 940.71 96.93 980.66 98.13 1010.7 99.03 1045.7 100.08 1080.7 101.13 1100.7 101.73 1115.7 102.18 1150.7 103.23 1185.7 104.28 1190.7 104.43 1220.6 105.33 1273.5 105.33" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LWPOLYLINE_1_" transform="translate(529.86 225.82)">
+   <polyline points="-432.54 101.33 -379.67 101.33 -349.88 100.43 -344.83 100.28 -309.83 99.23 -274.83 98.18 -259.88 97.73 -239.83 97.13 -204.83 96.08 -169.83 95.03 -139.88 94.13 -99.83 92.93 -64.83 91.88 -29.83 90.83 -19.88 90.53 5.17 89.78 12.62 89.56 20.17 89.33 27.63 89.11 35.18 88.89 70.21 87.92 100.27 87.18 105.24 87.05 140.26 86.27 175.29 85.58 210.32 84.98 220.29 84.84 245.35 84.48 280.38 84.06 315.41 83.74 340.38 83.58 350.44 83.51 385.47 83.37 420.5 83.33 455.53 83.37 490.55 83.51 500.52 83.58 525.58 83.74 560.61 84.06 595.64 84.48 620.61 84.84 630.67 84.98 665.7 85.58 700.73 86.27 740.82 87.18 770.79 87.92 805.81 88.89 813.27 89.11 820.82 89.33 828.28 89.56 835.83 89.78 860.78 90.53 870.83 90.83 905.83 91.88 940.83 92.93 980.78 94.13 1010.8 95.03 1045.8 96.08 1080.8 97.13 1100.8 97.73 1115.8 98.18 1150.8 99.23 1185.8 100.28 1190.8 100.43 1220.7 101.33 1273.5 101.33" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LWPOLYLINE_2_" transform="translate(529.86 225.82)">
+   <polyline points="-432.54 97.33 -379.73 97.33 -350 96.44 -344.95 96.28 -309.95 95.23 -274.95 94.18 -260 93.74 -239.95 93.13 -204.95 92.08 -169.95 91.03 -140 90.14 -99.95 88.93 -64.95 87.88 -29.95 86.83 -20 86.54 5.05 85.78 12.5 85.56 20.05 85.33 27.51 85.11 35.07 84.89 70.1 83.93 100.18 83.18 105.14 83.05 140.18 82.27 175.22 81.58 210.26 80.98 220.23 80.84 245.3 80.48 280.34 80.06 315.38 79.74 340.35 79.58 350.42 79.51 385.46 79.37 420.5 79.33 455.54 79.37 490.58 79.51 500.55 79.58 525.62 79.74 560.65 80.06 595.69 80.48 620.67 80.84 630.73 80.98 665.77 81.58 700.81 82.27 740.91 83.18 770.89 83.93 805.93 84.89 813.39 85.11 820.94 85.33 828.4 85.56 835.95 85.78 860.9 86.53 870.95 86.83 905.95 87.88 940.95 88.93 980.9 90.13 1011 91.03 1046 92.08 1081 93.13 1100.9 93.73 1116 94.18 1151 95.23 1186 96.28 1190.9 96.43 1220.7 97.33 1273.5 97.33" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_15_" transform="translate(529.86 225.82)">
+   <line x1="-430.15" x2="-430.15" y1="95.95" y2="109.87" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_16_" transform="translate(529.86 225.82)">
+   <line x1="-402.27" x2="-402.27" y1="95.95" y2="109.87" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_17_" transform="translate(529.86 225.82)">
+   <line x1="-374.01" x2="-373.59" y1="95.57" y2="109.69" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_18_" transform="translate(529.86 225.82)">
+   <line x1="-318.53" x2="-318.11" y1="94.12" y2="108.03" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_19_" transform="translate(529.86 225.82)">
+   <line x1="-281.54" x2="-281.13" y1="93.01" y2="106.92" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_20_" transform="translate(529.86 225.82)">
+   <line x1="-244.56" x2="-244.14" y1="91.9" y2="105.81" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_21_" transform="translate(529.86 225.82)">
+   <line x1="-207.58" x2="-207.16" y1="90.79" y2="104.7" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_22_" transform="translate(529.86 225.82)">
+   <line x1="-170.59" x2="-170.18" y1="89.68" y2="103.59" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_23_" transform="translate(529.86 225.82)">
+   <line x1="-133.61" x2="-133.19" y1="88.57" y2="102.48" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_24_" transform="translate(529.86 225.82)">
+   <line x1="-96.63" x2="-96.21" y1="87.46" y2="101.37" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_25_" transform="translate(529.86 225.82)">
+   <line x1="-59.64" x2="-59.23" y1="86.35" y2="100.26" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_26_" transform="translate(529.86 225.82)">
+   <line x1="-22.66" x2="-22.24" y1="85.24" y2="99.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_27_" transform="translate(529.86 225.82)">
+   <line x1="14.32" x2="14.74" y1="84.13" y2="98.04" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_28_" transform="translate(529.86 225.82)">
+   <line x1="51.31" x2="51.69" y1="83.07" y2="96.98" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_29_" transform="translate(529.86 225.82)">
+   <line x1="88.29" x2="88.64" y1="82.1" y2="96.01" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_30_" transform="translate(529.86 225.82)">
+   <line x1="125.28" x2="125.59" y1="81.23" y2="95.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_31_" transform="translate(529.86 225.82)">
+   <line x1="162.28" x2="162.55" y1="80.46" y2="94.38" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_32_" transform="translate(529.86 225.82)">
+   <line x1="199.27" x2="199.51" y1="79.8" y2="93.71" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_33_" transform="translate(529.86 225.82)">
+   <line x1="236.27" x2="236.47" y1="79.23" y2="93.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_34_" transform="translate(529.86 225.82)">
+   <line x1="273.26" x2="273.43" y1="78.77" y2="92.69" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_35_" transform="translate(529.86 225.82)">
+   <line x1="310.26" x2="310.39" y1="78.41" y2="92.33" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_36_" transform="translate(529.86 225.82)">
+   <line x1="347.26" x2="347.35" y1="78.16" y2="92.08" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_37_" transform="translate(529.86 225.82)">
+   <line x1="384.26" x2="384.32" y1="78" y2="91.92" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_38_" transform="translate(529.86 225.82)">
+   <line x1="420.5" x2="420.5" y1="78" y2="91.87" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_39_" transform="translate(529.86 225.82)">
+   <line x1="1271.2" x2="1271.2" y1="95.95" y2="109.87" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_40_" transform="translate(529.86 225.82)">
+   <line x1="1243.3" x2="1243.3" y1="95.95" y2="109.87" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_41_" transform="translate(529.86 225.82)">
+   <line x1="1159.5" x2="1159.1" y1="94.12" y2="108.03" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_42_" transform="translate(529.86 225.82)">
+   <line x1="1122.5" x2="1122.1" y1="93.01" y2="106.92" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_43_" transform="translate(529.86 225.82)">
+   <line x1="1085.6" x2="1085.1" y1="91.9" y2="105.81" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_44_" transform="translate(529.86 225.82)">
+   <line x1="1048.6" x2="1048.2" y1="90.79" y2="104.7" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_45_" transform="translate(529.86 225.82)">
+   <line x1="1011.6" x2="1011.2" y1="89.68" y2="103.59" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_46_" transform="translate(529.86 225.82)">
+   <line x1="974.61" x2="974.19" y1="88.57" y2="102.48" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_47_" transform="translate(529.86 225.82)">
+   <line x1="937.63" x2="937.21" y1="87.46" y2="101.37" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_48_" transform="translate(529.86 225.82)">
+   <line x1="900.64" x2="900.23" y1="86.35" y2="100.26" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_49_" transform="translate(529.86 225.82)">
+   <line x1="863.66" x2="863.24" y1="85.24" y2="99.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_50_" transform="translate(529.86 225.82)">
+   <line x1="826.68" x2="826.26" y1="84.13" y2="98.04" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_51_" transform="translate(529.86 225.82)">
+   <line x1="789.69" x2="789.31" y1="83.07" y2="96.98" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_52_" transform="translate(529.86 225.82)">
+   <line x1="752.71" x2="752.36" y1="82.1" y2="96.01" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_53_" transform="translate(529.86 225.82)">
+   <line x1="715.72" x2="715.41" y1="81.23" y2="95.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_54_" transform="translate(529.86 225.82)">
+   <line x1="678.72" x2="678.45" y1="80.46" y2="94.38" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_55_" transform="translate(529.86 225.82)">
+   <line x1="641.73" x2="641.49" y1="79.8" y2="93.71" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_56_" transform="translate(529.86 225.82)">
+   <line x1="715.72" x2="715.41" y1="81.23" y2="95.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_57_" transform="translate(529.86 225.82)">
+   <line x1="678.72" x2="678.45" y1="80.46" y2="94.38" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_58_" transform="translate(529.86 225.82)">
+   <line x1="641.73" x2="641.49" y1="79.8" y2="93.71" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_59_" transform="translate(529.86 225.82)">
+   <line x1="604.73" x2="604.53" y1="79.23" y2="93.15" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_60_" transform="translate(529.86 225.82)">
+   <line x1="530.74" x2="530.61" y1="78.41" y2="92.33" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_61_" transform="translate(529.86 225.82)">
+   <line x1="493.74" x2="493.65" y1="78.16" y2="92.08" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE_62_" transform="translate(529.86 225.82)">
+   <line x1="456.74" x2="456.68" y1="78" y2="91.92" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LINE" transform="translate(529.86 225.82)">
+   <line x1="833.75" x2="807.25" y1="141.81" y2="141.81" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LWPOLYLINE_3_" transform="translate(529.86 225.82)" fill="#f00" stroke="#1a1a1a">
+   <path d="m1274.6 109.87h-54.02l-30.01-0.9-4.95-0.15-70-2.1-15.05-0.45-19.95-0.6-100.05-3-109.95-3.3-10.05-0.3-24.95-0.75-7.55-0.23-7.45-0.22-7.55-0.22-7.45-0.22-35.01-0.97-29.95-0.75-40.06-0.91-35.01-0.69-35.01-0.6-10.05-0.15-24.96-0.36-35.01-0.41-35.01-0.32-25.05-0.16-9.96-0.07-35.01-0.14-35.01-0.05-35.01 0.05-35.01 0.14-10.05 0.07-24.96 0.16-35.01 0.32-35.01 0.41-25.05 0.36-9.96 0.14-35.01 0.6-35.01 0.69-35.01 0.78-4.95 0.12-30.06 0.75-35 0.97-7.55 0.22-7.45 0.22-7.55 0.23-7.45 0.22-25.05 0.75-9.95 0.3-70 2.1-40.05 1.2-29.95 0.9-70 2.1-20.05 0.6-14.95 0.45-70 2.1-5.05 0.15-29.91 0.9h-54.05v20h54.09c10 0 20 0.02 30 0.06 30 0.12 60 0.43 90 0.92 40.01 0.66 80.01 1.64 120 2.94 40.01 1.31 80.01 2.95 120 4.91 10.83 0.53 21.67 1.09 32.5 1.67h15c24.12-3.53 48.29-6.73 72.5-9.59 39.91-4.74 79.92-8.6 120-11.55 39.95-2.95 79.96-5.02 120-6.2 26.66-0.79 53.33-1.18 80-1.18s53.34 0.39 80 1.18c40.04 1.18 80.05 3.25 120 6.19 40.08 2.97 80.09 6.82 120 11.54 24.21 2.88 48.38 6.08 72.5 9.6h15c10.83-0.59 21.67-1.14 32.5-1.66 39.99-1.97 79.99-3.61 120-4.91 39.99-1.31 79.99-2.29 120-2.94 30-0.49 60-0.8 90-0.92 10-0.04 20-0.06 30-0.06h54.06v-19.98zm-654.06-16.49v25.84m-120-27.1v20.91m-160-20.91v20.91m-120-19.65v25.85m-120-23.51v35.06m-120-31.71v39.63m-120-36.03v31.12m-120-27.52v24.58m-90-21.88v20.96m1540-20.96v20.96m-90-23.66v24.58m-120-28.18v31.12m-120-34.72v39.64m-120-42.99v35.05" fill="#f00" stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+ </g>
+ <g transform="translate(529.86 225.82)" fill="#e3dbdb" stroke="#483737">
+  <g id="LWPOLYLINE_4_">
+   <polygon points="-419.5 141.01 -424.5 146.01 -424.5 169.01 -403 174.01 -403 181.01 -456 181.01 -456 174.01 -434.5 169.01 -434.5 146.01 -440.2 141.01 -440.2 109.88 -434.7 109.88 -434.7 136.01 -419.5 136.01" fill="#e3dbdb" stroke="#483737" stroke-miterlimit="10"/>
+  </g>
+  <g id="LWPOLYLINE_5_">
+   <rect x="-434.7" y="131.01" width="10.3" height="5" fill="#e3dbdb" stroke="#483737" stroke-miterlimit="10"/>
+  </g>
+  <g id="LWPOLYLINE_12_">
+   <rect x="-431.25" y="129.87" width="3.5" height="1.14" fill="#e3dbdb" stroke="#483737" stroke-miterlimit="10"/>
+  </g>
+ </g>
+ <g stroke-width="1.5">
+  <g id="LWPOLYLINE_6_" transform="translate(529.86 225.82)">
+   <rect x="1268.8" y="129.87" width="3.5" height="1.14" fill="none" stroke="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(529.86 225.82)" fill="#e3dbdb" stroke="#483737">
+   <polygon points="1260.5 141.01 1265.5 146.01 1265.5 169.01 1244 174.01 1244 181.01 1297 181.01 1297 174.01 1275.5 169.01 1275.5 146.01 1281.2 141.01 1281.2 109.88 1275.7 109.88 1275.7 136.01 1260.5 136.01" fill="#e3dbdb" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LWPOLYLINE_8_" transform="translate(529.86 225.82)">
+   <rect x="1265.4" y="131.01" width="10.3" height="5" fill="none" stroke="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g id="LWPOLYLINE_11_" transform="translate(529.86 225.82)">
+   <rect x="817.5" y="140.37" width="6" height="1.44" fill="none" stroke="#f00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(529.86 225.82)" fill="url(#a)" stroke="#483737">
+   <g id="LWPOLYLINE_9_">
+    <polygon points="-21.5 176.81 10 171.81 10 154.81 4.5 154.81 4.5 141.81 20.5 141.81 36.5 141.81 36.5 154.81 31 154.81 31 171.81 62.5 176.81 62.5 192.81 -21.5 192.81" fill="url(#a)" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LWPOLYLINE_13_">
+    <rect x="17.5" y="140.37" width="6" height="1.44" fill="url(#a)" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+  <g transform="translate(529.86 225.82)" fill="#e3dbdb" stroke="#483737">
+   <g id="LWPOLYLINE_10_" fill="#e3dbdb" stroke="#483737" stroke-width="1.5">
+    <polygon points="862.5 192.81 862.5 176.81 831 171.81 831 154.81 836.5 154.81 836.5 141.81 820.5 141.81 804.5 141.81 804.5 154.81 810 154.81 810 171.81 778.5 176.81 778.5 192.81" fill="#e3dbdb" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+ </g>
+ <g stroke-width="1.5">
+  <line x1="550.36" x2="550.36" y1="206.18" y2="1000.4" fill="none" stroke="#f0f" stroke-dasharray="18,18" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="1350.4" x2="1350.4" y1="206.18" y2="1000.4" fill="none" stroke="#f0f" stroke-dasharray="18,18" stroke-linecap="round" stroke-linejoin="round"/>
+  <g id="LINE_65_" transform="translate(529.86 225.82)" stroke-dasharray="18, 18">
+   <line x1="1270.5" x2="1270.5" y1="-19.64" y2="774.53" fill="none" stroke="#f0f" stroke-dasharray="18, 18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+ </g>
+ <g fill="none" stroke="#f0f" stroke-dasharray="18,18" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+  <line x1="100.36" x2="100.36" y1="206.18" y2="1000.4"/>
+  <line x1="325.36" x2="325.36" y1="206.18" y2="1000.4"/>
+  <line x1="950.36" x2="950.36" y1="206.18" y2="1000.4"/>
+  <line x1="1575.4" x2="1575.4" y1="206.18" y2="1000.4"/>
+  <line x1="100.36" x2="1800.4" y1="800.35" y2="800.35"/>
+  <line x1="100.36" x2="1800.4" y1="1000.4" y2="1000.4"/>
+ </g>
+ <g>
+  <g stroke-width="1.5">
+   <g id="CIRCLE" transform="translate(529.86 225.82)">
+    <path d="m-457.41-47.56c0-15.42 12.5-27.91 27.91-27.91s27.91 12.5 27.91 27.91-12.5 27.91-27.91 27.91-27.91-12.49-27.91-27.91z" fill="none" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="TEXT" transform="translate(529.86 225.82)">
+    <text transform="translate(-446.8 -37.38)" fill="#0000ff" font-family="ArialMT" font-size="28.632px" stroke-width="1.5">A2</text>
+   </g>
+   <g id="CIRCLE_1_" transform="translate(529.86 225.82)">
+    <path d="m-7.41-47.56c0-15.42 12.5-27.91 27.91-27.91s27.91 12.5 27.91 27.91-12.49 27.92-27.91 27.92-27.91-12.5-27.91-27.92z" fill="none" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="TEXT_1_" transform="translate(529.86 225.82)">
+    <text transform="translate(3.1811 -37.38)" fill="#0000ff" font-family="ArialMT" font-size="28.632px" stroke-width="1.5">P2</text>
+   </g>
+   <g id="CIRCLE_2_" transform="translate(529.86 225.82)">
+    <path d="m792.59-47.56c0-15.42 12.5-27.91 27.91-27.91s27.91 12.5 27.91 27.91-12.5 27.91-27.91 27.91-27.91-12.49-27.91-27.91z" fill="none" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="TEXT_2_" transform="translate(529.86 225.82)">
+    <text transform="translate(803.18 -37.38)" fill="#0000ff" font-family="ArialMT" font-size="28.632px" stroke-width="1.5">P1</text>
+   </g>
+   <g id="CIRCLE_3_" transform="translate(529.86 225.82)">
+    <path d="m1242.6-47.56c0-15.42 12.5-27.91 27.91-27.91s27.91 12.5 27.91 27.91-12.5 27.91-27.91 27.91-27.91-12.49-27.91-27.91z" fill="none" stroke="#00f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="TEXT_3_" transform="translate(529.86 225.82)">
+    <text transform="translate(1253.2 -37.38)" fill="#0000ff" font-family="ArialMT" font-size="28.632px" stroke-width="1.5">A1</text>
+   </g>
+   <g id="TEXT_4_" transform="translate(529.86 225.82)">
+    <text transform="translate(-298.18 -156.31)" fill="#0000ff" font-family="ArialMT" font-size="54.118px" stroke-width="1.5">KUDUS</text>
+   </g>
+   <g id="TEXT_5_" transform="translate(529.86 225.82)">
+    <text transform="translate(950.33 -156.31)" fill="#0000ff" font-family="ArialMT" font-size="54.118px" stroke-width="1.5">DEMAK</text>
+   </g>
+  </g>
+  <g>
+   <g id="LINE_71_" transform="translate(529.86 225.82)">
+    <line x1="-529.5" x2="-516.25" y1="374.53" y2="374.53" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_72_" transform="translate(529.86 225.82)">
+    <line x1="-529.5" x2="-529.5" y1="361.28" y2="387.78" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LWPOLYLINE_14_" transform="translate(529.86 225.82)">
+    <polyline points="-529.5 -212.22 -529.5 -225.47 -516.25 -225.47" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_73_" transform="translate(529.86 225.82)">
+    <line x1="-529.5" x2="-516.25" y1="574.53" y2="574.53" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_74_" transform="translate(529.86 225.82)">
+    <line x1="-529.5" x2="-529.5" y1="561.28" y2="587.78" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LWPOLYLINE_25_" transform="translate(529.86 225.82)">
+    <polyline points="-529.5 807.78 -529.5 821.03 -516.25 821.03" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_109_" transform="translate(529.86 225.82)">
+    <line x1="1370.5" x2="1357.2" y1="374.53" y2="374.53" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_110_" transform="translate(529.86 225.82)">
+    <line x1="1370.5" x2="1370.5" y1="361.28" y2="387.78" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LWPOLYLINE_26_" transform="translate(529.86 225.82)">
+    <polyline points="1370.5 -212.22 1370.5 -225.47 1357.2 -225.47" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_111_" transform="translate(529.86 225.82)">
+    <line x1="1370.5" x2="1357.2" y1="574.53" y2="574.53" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LINE_112_" transform="translate(529.86 225.82)">
+    <line x1="1370.5" x2="1370.5" y1="561.28" y2="587.78" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+   <g id="LWPOLYLINE_27_" transform="translate(529.86 225.82)">
+    <polyline points="1370.5 807.78 1370.5 821.03 1357.2 821.03" fill="none" stroke="#808080" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
+  </g>
+ </g>
+ <g fill="#fff" stroke="#483737" stroke-width="1.5">
+  <g transform="translate(529.86 225.82)">
+   <g id="LWPOLYLINE_15_">
+    <polygon points="20.5 349.53 1.33 383.88 39.67 383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_77_">
+    <line x1="55.33" x2="-14.33" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_78_">
+    <line x1="-12.31" x2="-2.72" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT">
+    <line x1="43.72" x2="43.72" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_1_">
+    <line x1="32.11" x2="32.11" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_2_">
+    <line x1="20.5" x2="20.5" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_3_">
+    <line x1="8.89" x2="8.89" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_4_">
+    <line x1="-2.72" x2="-2.72" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_79_">
+    <line x1="-.7" x2="8.89" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_80_">
+    <line x1="10.91" x2="20.5" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_81_">
+    <line x1="22.53" x2="32.11" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_82_">
+    <line x1="34.14" x2="43.72" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+  <g transform="translate(529.86 225.82)">
+   <g id="LWPOLYLINE_16_">
+    <polygon points="820.5 349.53 801.33 383.88 839.67 383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_83_">
+    <line x1="855.33" x2="785.67" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_84_">
+    <line x1="787.69" x2="797.28" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_5_">
+    <line x1="843.72" x2="843.72" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_6_">
+    <line x1="832.11" x2="832.11" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_7_">
+    <line x1="820.5" x2="820.5" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_8_">
+    <line x1="808.89" x2="808.89" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_9_">
+    <line x1="797.28" x2="797.28" y1="383.88" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_85_">
+    <line x1="799.3" x2="808.89" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_86_">
+    <line x1="810.91" x2="820.5" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_87_">
+    <line x1="822.53" x2="832.11" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_88_">
+    <line x1="834.14" x2="843.72" y1="401.05" y2="383.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+  <g transform="translate(529.86 225.82)">
+   <g id="LWPOLYLINE_17_">
+    <polygon points="1270.5 374.53 1251.3 408.88 1289.7 408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_89_">
+    <line x1="1305.3" x2="1235.7" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_90_">
+    <line x1="1237.7" x2="1247.3" y1="426.05" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_10_">
+    <line x1="1293.7" x2="1293.7" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_11_">
+    <line x1="1282.1" x2="1282.1" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_12_">
+    <line x1="1270.5" x2="1270.5" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_13_">
+    <line x1="1258.9" x2="1258.9" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="POINT_14_">
+    <line x1="1247.3" x2="1247.3" y1="408.88" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_91_">
+    <line x1="1249.3" x2="1258.9" y1="426.05" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_92_">
+    <line x1="1260.9" x2="1270.5" y1="426.05" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_93_">
+    <line x1="1272.5" x2="1282.1" y1="426.05" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="LINE_94_">
+    <line x1="1284.1" x2="1293.7" y1="426.05" y2="408.88" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+ </g>
+ <g id="curve_ori" transform="translate(529.86 225.82)" stroke-width="1.5">
+  <g id="SPLINE" stroke-width="1.5">
+   <path d="m-429.5 374.53c149.94-9.47 299.88-18.94 450-25 266.47-10.75 533.53-10.75 800 0 150.12 6.06 300.06 15.53 450 25" fill="none" stroke="#008000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+ </g>
+ <g fill="#aad400" stroke="#000" stroke-width="1.5">
+  <g transform="translate(529.86 225.82)">
+   <g id="CIRCLE_4_" fill="#aad400" stroke="#000" stroke-width="1.5">
+    <path d="m-215.23 360.75c0-5.93 4.8-10.73 10.73-10.73s10.73 4.8 10.73 10.73-4.8 10.73-10.73 10.73-10.73-4.81-10.73-10.73z" fill="#aad400" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+  <g transform="translate(529.86 225.82)">
+   <g id="CIRCLE_5_" fill="#aad400" stroke="#000" stroke-width="1.5">
+    <path d="m409.77 341.47c0-5.93 4.8-10.73 10.73-10.73s10.73 4.8 10.73 10.73-4.8 10.73-10.73 10.73-10.73-4.81-10.73-10.73z" fill="#aad400" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+  <g transform="translate(529.86 225.82)">
+   <g id="CIRCLE_6_" fill="#aad400" stroke="#000" stroke-width="1.5">
+    <path d="m1034.8 360.75c0-5.93 4.8-10.73 10.73-10.73s10.73 4.8 10.73 10.73-4.8 10.73-10.73 10.73-10.73-4.81-10.73-10.73z" fill="#aad400" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(529.86 225.82)" fill="#fff" stroke="#483737" stroke-width="1.5">
+  <path d="m-415.86 426.05 9.58-17.17m-21.19 17.17 9.58-17.17m-21.2 17.17 9.59-17.17m-21.2 17.17 9.59-17.17m-11.61 0v0m11.61 0v0m11.61 0v0m11.61 0v0m11.61 0v0m-56.03 17.17 9.59-17.17m58.05 0h-69.66m54 0-19.17-34.35-19.17 34.35z" fill="#fff" stroke="#483737" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+ </g>
+ <path id="curve_dyn" d="M 100,600 C 145,597.244 235,591.22 325,586.22 C 415,581.22 425,578.8580000000001 550,575 C 675,571.1419999999999 790,566.93 950,566.93 C 1110,566.93 1225,571.142 1350,575 C 1475,578.8580000000001 1485,581.22 1575,586.22 C 1665,591.22 1755,597.244 1800,600" fill="none" stroke="grey"></path>
+</svg>
