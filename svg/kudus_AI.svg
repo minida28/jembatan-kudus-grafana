@@ -1,489 +1,552 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 184.97 100.71" enable-background="new 0 0 184.97 100.71" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-0.3 227.1 612.5 337.7" style="enable-background:new -0.3 227.1 612.5 337.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#808080;stroke-width:0.4252;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#0000FF;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FF0000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st4{fill:none;stroke:#FF00FF;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:15.4551,3.8638;}
+	.st5{fill:#0000FF;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:9.2188px;}
+	.st8{font-size:17.4248px;}
+	.st9{fill:none;stroke:#808080;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
 <g id="rail">
 	<g id="LWPOLYLINE">
-		
-			<polyline fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			7.18,33.43 12.47,33.43 15.46,33.34 15.96,33.33 19.46,33.22 22.96,33.12 24.46,33.07 26.46,33.01 29.96,32.91 33.46,32.8 
-			36.46,32.71 40.46,32.59 43.96,32.49 47.46,32.38 48.46,32.35 50.96,32.28 51.71,32.26 52.46,32.23 53.21,32.21 53.96,32.19 
-			57.47,32.09 60.47,32.02 60.97,32.01 64.47,31.93 67.97,31.86 71.47,31.8 72.47,31.79 74.97,31.75 78.48,31.71 81.98,31.68 
-			84.47,31.66 85.48,31.65 88.98,31.64 92.48,31.63 95.99,31.64 99.49,31.65 100.48,31.66 102.99,31.68 106.49,31.71 109.99,31.75 
-			112.49,31.79 113.5,31.8 117,31.86 120.5,31.93 124.51,32.02 127.5,32.09 131,32.19 131.75,32.21 132.51,32.23 133.25,32.26 
-			134.01,32.28 136.5,32.35 137.51,32.38 141.01,32.49 144.51,32.59 148.5,32.71 151.51,32.8 155.01,32.91 158.51,33.01 
-			160.5,33.07 162.01,33.12 165.51,33.22 169.01,33.33 169.5,33.34 172.49,33.43 177.78,33.43 		"/>
+		<polyline class="st0" points="31.3,334 48.4,334 58,333.7 59.6,333.7 70.9,333.4 82.2,333 87,332.9 93.4,332.7 104.7,332.3 
+			116,332 125.6,331.7 138.5,331.3 149.8,331 161,330.7 164.2,330.6 172.3,330.3 174.7,330.2 177.1,330.2 179.5,330.1 182,330 
+			193.2,329.7 202.9,329.5 204.5,329.4 215.8,329.2 227.1,329 238.3,328.8 241.6,328.7 249.6,328.6 260.9,328.5 272.2,328.4 
+			280.2,328.3 283.4,328.3 294.7,328.3 306,328.2 317.3,328.3 328.5,328.3 331.8,328.3 339.8,328.4 351.1,328.5 362.4,328.6 
+			370.4,328.7 373.7,328.8 384.9,329 396.2,329.2 409.1,329.5 418.8,329.7 430,330 432.4,330.1 434.9,330.2 437.3,330.2 
+			439.7,330.3 447.7,330.6 451,330.7 462.2,331 473.5,331.3 486.4,331.7 496,332 507.3,332.3 518.6,332.7 525,332.9 529.8,333 
+			541.1,333.4 552.4,333.7 554,333.7 563.6,334 580.7,334 		"/>
 	</g>
 	<g id="LWPOLYLINE_1_">
-		
-			<polyline fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			7.18,33.03 12.47,33.03 15.45,32.94 15.95,32.93 19.45,32.82 22.95,32.72 24.45,32.67 26.45,32.61 29.95,32.51 33.45,32.4 
-			36.45,32.31 40.45,32.19 43.95,32.09 47.45,31.98 48.45,31.95 50.95,31.88 51.7,31.86 52.45,31.83 53.2,31.81 53.95,31.79 
-			57.46,31.69 60.46,31.62 60.96,31.61 64.46,31.53 67.96,31.46 71.47,31.4 72.46,31.39 74.97,31.35 78.47,31.31 81.98,31.28 
-			84.47,31.26 85.48,31.25 88.98,31.24 92.48,31.23 95.99,31.24 99.49,31.25 100.49,31.26 102.99,31.28 106.5,31.31 110,31.35 
-			112.5,31.39 113.5,31.4 117,31.46 120.51,31.53 124.52,31.62 127.51,31.69 131.02,31.79 131.76,31.81 132.52,31.83 133.26,31.86 
-			134.02,31.88 136.51,31.95 137.52,31.98 141.02,32.09 144.52,32.19 148.51,32.31 151.52,32.4 155.02,32.51 158.52,32.61 
-			160.51,32.67 162.02,32.72 165.52,32.82 169.02,32.93 169.51,32.94 172.5,33.03 177.78,33.03 		"/>
+		<polyline class="st0" points="31.3,332.7 48.4,332.7 58,332.5 59.6,332.4 70.8,332.1 82.1,331.7 86.9,331.6 93.4,331.4 
+			104.7,331.1 115.9,330.7 125.6,330.4 138.5,330 149.7,329.7 161,329.4 164.2,329.3 172.3,329 174.7,329 177.1,328.9 179.5,328.8 
+			181.9,328.7 193.2,328.4 202.9,328.2 204.5,328.1 215.8,327.9 227,327.7 238.3,327.5 241.5,327.4 249.6,327.3 260.9,327.2 
+			272.2,327.1 280.2,327 283.4,327 294.7,327 306,327 317.3,327 328.6,327 331.8,327 339.8,327.1 351.1,327.2 362.4,327.3 
+			370.4,327.4 373.7,327.5 384.9,327.7 396.2,327.9 409.1,328.2 418.8,328.4 430.1,328.7 432.5,328.8 434.9,328.9 437.3,329 
+			439.7,329 447.8,329.3 451,329.4 462.3,329.7 473.5,330 486.4,330.4 496.1,330.7 507.3,331.1 518.6,331.4 525,331.6 529.9,331.7 
+			541.2,332.1 552.4,332.4 554,332.5 563.6,332.7 580.7,332.7 		"/>
 	</g>
 	<g id="LWPOLYLINE_2_">
-		
-			<polyline fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			7.18,32.63 12.46,32.63 15.43,32.54 15.94,32.53 19.44,32.42 22.94,32.32 24.43,32.27 26.44,32.21 29.94,32.11 33.44,32 
-			36.43,31.91 40.44,31.79 43.94,31.69 47.44,31.58 48.43,31.55 50.94,31.48 51.68,31.46 52.44,31.43 53.19,31.41 53.94,31.39 
-			57.44,31.29 60.45,31.22 60.95,31.21 64.45,31.13 67.96,31.06 71.46,31 72.46,30.99 74.96,30.95 78.47,30.91 81.97,30.88 
-			84.47,30.86 85.48,30.85 88.98,30.84 92.48,30.83 95.99,30.84 99.49,30.85 100.49,30.86 103,30.88 106.5,30.91 110,30.95 
-			112.5,30.99 113.51,31 117.01,31.06 120.52,31.13 124.53,31.22 127.52,31.29 131.03,31.39 131.77,31.41 132.53,31.43 
-			133.27,31.46 134.03,31.48 136.52,31.55 137.53,31.58 141.03,31.69 144.53,31.79 148.52,31.91 151.53,32 155.03,32.11 
-			158.53,32.21 160.52,32.27 162.03,32.32 165.53,32.42 169.03,32.53 169.52,32.54 172.51,32.63 177.78,32.63 		"/>
+		<polyline class="st0" points="31.3,331.5 48.3,331.5 57.9,331.2 59.5,331.1 70.8,330.8 82.1,330.4 86.9,330.3 93.3,330.1 
+			104.6,329.8 115.9,329.4 125.5,329.1 138.4,328.8 149.7,328.4 161,328.1 164.2,328 172.2,327.7 174.6,327.7 177.1,327.6 
+			179.5,327.5 181.9,327.5 193.2,327.1 202.9,326.9 204.5,326.9 215.7,326.6 227,326.4 238.3,326.2 241.5,326.1 249.6,326 
+			260.9,325.9 272.2,325.8 280.2,325.7 283.4,325.7 294.7,325.7 306,325.7 317.3,325.7 328.6,325.7 331.8,325.7 339.8,325.8 
+			351.1,325.9 362.4,326 370.5,326.1 373.7,326.2 385,326.4 396.3,326.6 409.2,326.9 418.8,327.1 430.1,327.5 432.5,327.5 
+			434.9,327.6 437.3,327.7 439.8,327.7 447.8,328 451,328.1 462.3,328.4 473.6,328.8 486.4,329.1 496.1,329.4 507.4,329.8 
+			518.7,330.1 525.1,330.3 529.9,330.4 541.2,330.8 552.5,331.1 554.1,331.2 563.7,331.5 580.7,331.5 		"/>
 	</g>
 	<g id="LINE_15_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7.42" y1="32.5" x2="7.42" y2="33.89"/>
+		<line class="st0" x1="32.1" y1="331" x2="32.1" y2="335.5"/>
 	</g>
 	<g id="LINE_16_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.21" y1="32.5" x2="10.21" y2="33.89"/>
+		<line class="st0" x1="41.1" y1="331" x2="41.1" y2="335.5"/>
 	</g>
 	<g id="LINE_17_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="13.03" y1="32.46" x2="13.08" y2="33.87"/>
+		<line class="st0" x1="50.2" y1="330.9" x2="50.3" y2="335.4"/>
 	</g>
 	<g id="LINE_18_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="18.58" y1="32.31" x2="18.62" y2="33.7"/>
+		<line class="st0" x1="68" y1="330.4" x2="68.2" y2="334.9"/>
 	</g>
 	<g id="LINE_19_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="22.28" y1="32.2" x2="22.32" y2="33.59"/>
+		<line class="st0" x1="80" y1="330.1" x2="80.1" y2="334.5"/>
 	</g>
 	<g id="LINE_20_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.98" y1="32.09" x2="26.02" y2="33.48"/>
+		<line class="st0" x1="91.9" y1="329.7" x2="92" y2="334.2"/>
 	</g>
 	<g id="LINE_21_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="29.68" y1="31.98" x2="29.72" y2="33.37"/>
+		<line class="st0" x1="103.8" y1="329.4" x2="103.9" y2="333.8"/>
 	</g>
 	<g id="LINE_22_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="33.37" y1="31.87" x2="33.42" y2="33.26"/>
+		<line class="st0" x1="115.7" y1="329" x2="115.8" y2="333.5"/>
 	</g>
 	<g id="LINE_23_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="37.07" y1="31.76" x2="37.11" y2="33.15"/>
+		<line class="st0" x1="127.6" y1="328.6" x2="127.7" y2="333.1"/>
 	</g>
 	<g id="LINE_24_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="40.77" y1="31.65" x2="40.81" y2="33.04"/>
+		<line class="st0" x1="139.5" y1="328.3" x2="139.6" y2="332.8"/>
 	</g>
 	<g id="LINE_25_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.47" y1="31.54" x2="44.51" y2="32.93"/>
+		<line class="st0" x1="151.4" y1="327.9" x2="151.5" y2="332.4"/>
 	</g>
 	<g id="LINE_26_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48.17" y1="31.43" x2="48.21" y2="32.82"/>
+		<line class="st0" x1="163.3" y1="327.6" x2="163.4" y2="332"/>
 	</g>
 	<g id="LINE_27_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="51.87" y1="31.31" x2="51.91" y2="32.71"/>
+		<line class="st0" x1="175.2" y1="327.2" x2="175.4" y2="331.7"/>
 	</g>
 	<g id="LINE_28_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="55.57" y1="31.21" x2="55.6" y2="32.6"/>
+		<line class="st0" x1="187.1" y1="326.9" x2="187.3" y2="331.3"/>
 	</g>
 	<g id="LINE_29_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="59.26" y1="31.11" x2="59.3" y2="32.5"/>
+		<line class="st0" x1="199" y1="326.6" x2="199.1" y2="331"/>
 	</g>
 	<g id="LINE_30_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="62.96" y1="31.02" x2="62.99" y2="32.42"/>
+		<line class="st0" x1="210.9" y1="326.3" x2="211" y2="330.8"/>
 	</g>
 	<g id="LINE_31_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="66.66" y1="30.95" x2="66.69" y2="32.34"/>
+		<line class="st0" x1="222.9" y1="326" x2="222.9" y2="330.5"/>
 	</g>
 	<g id="LINE_32_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="70.36" y1="30.88" x2="70.39" y2="32.27"/>
+		<line class="st0" x1="234.8" y1="325.8" x2="234.8" y2="330.3"/>
 	</g>
 	<g id="LINE_33_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="74.06" y1="30.82" x2="74.08" y2="32.22"/>
+		<line class="st0" x1="246.7" y1="325.6" x2="246.7" y2="330.1"/>
 	</g>
 	<g id="LINE_34_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="77.76" y1="30.78" x2="77.78" y2="32.17"/>
+		<line class="st0" x1="258.6" y1="325.5" x2="258.6" y2="330"/>
 	</g>
 	<g id="LINE_35_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="81.46" y1="30.74" x2="81.47" y2="32.13"/>
+		<line class="st0" x1="270.5" y1="325.4" x2="270.5" y2="329.9"/>
 	</g>
 	<g id="LINE_36_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="85.16" y1="30.72" x2="85.17" y2="32.11"/>
+		<line class="st0" x1="282.4" y1="325.3" x2="282.4" y2="329.8"/>
 	</g>
 	<g id="LINE_37_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="88.86" y1="30.7" x2="88.87" y2="32.09"/>
+		<line class="st0" x1="294.3" y1="325.2" x2="294.3" y2="329.7"/>
 	</g>
 	<g id="LINE_38_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="92.48" y1="30.7" x2="92.48" y2="32.09"/>
+		<line class="st0" x1="306" y1="325.2" x2="306" y2="329.7"/>
 	</g>
 	<g id="LINE_39_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="177.55" y1="32.5" x2="177.55" y2="33.89"/>
+		<line class="st0" x1="579.9" y1="331" x2="579.9" y2="335.5"/>
 	</g>
 	<g id="LINE_40_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="174.76" y1="32.5" x2="174.76" y2="33.89"/>
+		<line class="st0" x1="570.9" y1="331" x2="570.9" y2="335.5"/>
 	</g>
 	<g id="LINE_41_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="166.39" y1="32.31" x2="166.35" y2="33.7"/>
+		<line class="st0" x1="544" y1="330.4" x2="543.8" y2="334.9"/>
 	</g>
 	<g id="LINE_42_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="162.69" y1="32.2" x2="162.65" y2="33.59"/>
+		<line class="st0" x1="532" y1="330.1" x2="531.9" y2="334.5"/>
 	</g>
 	<g id="LINE_43_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="158.99" y1="32.09" x2="158.95" y2="33.48"/>
+		<line class="st0" x1="520.1" y1="329.7" x2="520" y2="334.2"/>
 	</g>
 	<g id="LINE_44_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="155.29" y1="31.98" x2="155.25" y2="33.37"/>
+		<line class="st0" x1="508.2" y1="329.4" x2="508.1" y2="333.8"/>
 	</g>
 	<g id="LINE_45_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="151.59" y1="31.87" x2="151.55" y2="33.26"/>
+		<line class="st0" x1="496.3" y1="329" x2="496.2" y2="333.5"/>
 	</g>
 	<g id="LINE_46_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="147.9" y1="31.76" x2="147.85" y2="33.15"/>
+		<line class="st0" x1="484.4" y1="328.6" x2="484.3" y2="333.1"/>
 	</g>
 	<g id="LINE_47_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="144.2" y1="31.65" x2="144.16" y2="33.04"/>
+		<line class="st0" x1="472.5" y1="328.3" x2="472.4" y2="332.8"/>
 	</g>
 	<g id="LINE_48_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="140.5" y1="31.54" x2="140.46" y2="32.93"/>
+		<line class="st0" x1="460.6" y1="327.9" x2="460.5" y2="332.4"/>
 	</g>
 	<g id="LINE_49_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="136.8" y1="31.43" x2="136.76" y2="32.82"/>
+		<line class="st0" x1="448.7" y1="327.6" x2="448.6" y2="332"/>
 	</g>
 	<g id="LINE_50_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="133.1" y1="31.31" x2="133.06" y2="32.71"/>
+		<line class="st0" x1="436.8" y1="327.2" x2="436.6" y2="331.7"/>
 	</g>
 	<g id="LINE_51_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="129.4" y1="31.21" x2="129.37" y2="32.6"/>
+		<line class="st0" x1="424.9" y1="326.9" x2="424.7" y2="331.3"/>
 	</g>
 	<g id="LINE_52_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="125.7" y1="31.11" x2="125.67" y2="32.5"/>
+		<line class="st0" x1="413" y1="326.6" x2="412.9" y2="331"/>
 	</g>
 	<g id="LINE_53_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="122.01" y1="31.02" x2="121.97" y2="32.42"/>
+		<line class="st0" x1="401.1" y1="326.3" x2="401" y2="330.8"/>
 	</g>
 	<g id="LINE_54_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="118.31" y1="30.95" x2="118.28" y2="32.34"/>
+		<line class="st0" x1="389.1" y1="326" x2="389.1" y2="330.5"/>
 	</g>
 	<g id="LINE_55_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="114.61" y1="30.88" x2="114.58" y2="32.27"/>
+		<line class="st0" x1="377.2" y1="325.8" x2="377.2" y2="330.3"/>
 	</g>
 	<g id="LINE_56_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="122.01" y1="31.02" x2="121.97" y2="32.42"/>
+		<line class="st0" x1="401.1" y1="326.3" x2="401" y2="330.8"/>
 	</g>
 	<g id="LINE_57_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="118.31" y1="30.95" x2="118.28" y2="32.34"/>
+		<line class="st0" x1="389.1" y1="326" x2="389.1" y2="330.5"/>
 	</g>
 	<g id="LINE_58_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="114.61" y1="30.88" x2="114.58" y2="32.27"/>
+		<line class="st0" x1="377.2" y1="325.8" x2="377.2" y2="330.3"/>
 	</g>
 	<g id="LINE_59_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="110.91" y1="30.82" x2="110.89" y2="32.22"/>
+		<line class="st0" x1="365.3" y1="325.6" x2="365.3" y2="330.1"/>
 	</g>
 	<g id="LINE_60_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="103.51" y1="30.74" x2="103.5" y2="32.13"/>
+		<line class="st0" x1="341.5" y1="325.4" x2="341.5" y2="329.9"/>
 	</g>
 	<g id="LINE_61_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="99.81" y1="30.72" x2="99.8" y2="32.11"/>
+		<line class="st0" x1="329.6" y1="325.3" x2="329.6" y2="329.8"/>
 	</g>
 	<g id="LINE_62_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.4252" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="96.11" y1="30.7" x2="96.1" y2="32.09"/>
+		<line class="st0" x1="317.7" y1="325.2" x2="317.7" y2="329.7"/>
+	</g>
+	<g id="LWPOLYLINE_20_">
+		<line class="st0" x1="31.3" y1="525.1" x2="47.1" y2="525.1"/>
+	</g>
+	<g id="LWPOLYLINE_21_">
+		<line class="st0" x1="31.3" y1="523.8" x2="47.5" y2="523.8"/>
+	</g>
+	<g id="LWPOLYLINE_22_">
+		<line class="st0" x1="31.3" y1="522.6" x2="48" y2="522.6"/>
+	</g>
+	<g id="LINE_104_">
+		<line class="st0" x1="32.1" y1="522.1" x2="32.1" y2="526.6"/>
+	</g>
+	<g id="LINE_105_">
+		<line class="st0" x1="41.1" y1="522.1" x2="41.1" y2="526.6"/>
 	</g>
 </g>
-<g id="tumpuan">
+<g id="tumpuan_x5F_A2">
 	<g id="LINE">
-		
-			<line fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="133.81" y1="37.08" x2="131.16" y2="37.08"/>
+		<line class="st1" x1="439.1" y1="345.8" x2="430.5" y2="345.8"/>
 	</g>
-	<g id="LWPOLYLINE_4_">
-		
-			<polygon fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			10.13,40.3 10.13,41 4.83,41 4.83,40.3 6.98,39.8 6.98,37.5 6.41,37 6.41,33.89 6.96,33.89 6.96,36.5 8.48,36.5 8.48,37 
-			7.98,37.5 7.98,39.8 		"/>
+	<g id="LWPOLYLINE_18_">
+		<polygon class="st2" points="26.1,431.8 38.5,431.8 32.3,420.7 		"/>
 	</g>
-	<g id="LWPOLYLINE_5_">
-		
-			<rect x="6.96" y="36" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="1.03" height="0.5"/>
+	<g id="LINE_95_">
+		<line class="st2" x1="43.5" y1="431.8" x2="21.1" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_6_">
-		
-			<rect x="177.31" y="35.89" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0.35" height="0.11"/>
+	<g id="LINE_96_">
+		<line class="st2" x1="21.8" y1="437.3" x2="24.8" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_7_">
-		
-			<polygon fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			174.83,40.3 174.83,41 180.13,41 180.13,40.3 177.98,39.8 177.98,37.5 178.55,37 178.55,33.89 178,33.89 178,36.5 176.48,36.5 
-			176.48,37 176.98,37.5 176.98,39.8 		"/>
+	<g id="LINE_97_">
+		<line class="st2" x1="25.5" y1="437.3" x2="28.6" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_8_">
-		
-			<rect x="176.97" y="36" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="1.03" height="0.5"/>
+	<g id="LINE_98_">
+		<line class="st2" x1="29.2" y1="437.3" x2="32.3" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_9_">
-		
-			<polygon fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			56.68,42.18 48.28,42.18 48.28,40.58 51.43,40.08 51.43,38.38 50.88,38.38 50.88,37.08 52.48,37.08 54.08,37.08 54.08,38.38 
-			53.53,38.38 53.53,40.08 56.68,40.58 		"/>
+	<g id="LINE_99_">
+		<line class="st2" x1="33" y1="437.3" x2="36.1" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_10_">
-		
-			<polygon fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			134.08,37.08 132.48,37.08 130.88,37.08 130.88,38.38 131.43,38.38 131.43,40.08 128.28,40.58 128.28,42.18 136.68,42.18 
-			136.68,40.58 133.53,40.08 133.53,38.38 134.08,38.38 		"/>
+	<g id="LINE_100_">
+		<line class="st2" x1="36.7" y1="437.3" x2="39.8" y2="431.8"/>
 	</g>
-	<g id="LWPOLYLINE_11_">
-		
-			<rect x="132.18" y="36.94" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0.6" height="0.14"/>
+	<g id="LWPOLYLINE_19_">
+		<polygon class="st2" points="40.8,547.3 40.8,549.5 23.8,549.5 23.8,547.3 30.7,545.6 30.7,538.2 28.9,536.6 28.9,526.6 
+			30.6,526.6 30.6,535 35.5,535 35.5,536.6 33.9,538.2 33.9,545.6 		"/>
 	</g>
-	<g id="LWPOLYLINE_12_">
-		
-			<rect x="7.31" y="35.89" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0.35" height="0.11"/>
+	<g id="LWPOLYLINE_23_">
+		<rect x="30.6" y="533.4" class="st2" width="3.3" height="1.6"/>
 	</g>
-	<g id="LWPOLYLINE_13_">
-		
-			<rect x="52.18" y="36.94" fill="none" stroke="#FF7F00" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="0.6" height="0.14"/>
+	<g id="LWPOLYLINE_24_">
+		<rect x="31.8" y="533" class="st2" width="1.1" height="0.4"/>
 	</g>
 </g>
 <g id="girder">
 	<g id="LINE_1_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="15.48" y1="33.8" x2="15.48" y2="35.89"/>
+		<line class="st3" x1="58.1" y1="335.2" x2="58.1" y2="342"/>
 	</g>
 	<g id="LINE_2_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="24.48" y1="33.53" x2="24.48" y2="35.99"/>
+		<line class="st3" x1="87.1" y1="334.3" x2="87.1" y2="342.3"/>
 	</g>
 	<g id="LINE_3_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="36.48" y1="33.17" x2="36.48" y2="36.28"/>
+		<line class="st3" x1="125.7" y1="333.2" x2="125.7" y2="343.2"/>
 	</g>
 	<g id="LINE_4_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="48.48" y1="32.81" x2="48.48" y2="36.77"/>
+		<line class="st3" x1="164.3" y1="332" x2="164.3" y2="344.8"/>
 	</g>
 	<g id="LINE_5_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="60.48" y1="32.47" x2="60.48" y2="35.98"/>
+		<line class="st3" x1="203" y1="330.9" x2="203" y2="342.2"/>
 	</g>
 	<g id="LINE_6_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="72.48" y1="32.24" x2="72.48" y2="34.82"/>
+		<line class="st3" x1="241.6" y1="330.2" x2="241.6" y2="338.5"/>
 	</g>
 	<g id="LINE_7_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="84.48" y1="32.11" x2="84.48" y2="34.2"/>
+		<line class="st3" x1="280.2" y1="329.8" x2="280.2" y2="336.5"/>
 	</g>
 	<g id="LINE_8_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="100.48" y1="32.11" x2="100.48" y2="34.2"/>
+		<line class="st3" x1="331.8" y1="329.8" x2="331.8" y2="336.5"/>
 	</g>
 	<g id="LINE_9_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="112.48" y1="32.24" x2="112.48" y2="34.82"/>
+		<line class="st3" x1="370.4" y1="330.2" x2="370.4" y2="338.5"/>
 	</g>
 	<g id="LINE_10_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="124.48" y1="32.47" x2="124.48" y2="35.98"/>
+		<line class="st3" x1="409" y1="330.9" x2="409" y2="342.2"/>
 	</g>
 	<g id="LINE_11_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="136.48" y1="32.81" x2="136.48" y2="36.77"/>
+		<line class="st3" x1="447.7" y1="332" x2="447.7" y2="344.8"/>
 	</g>
 	<g id="LINE_12_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="148.48" y1="33.17" x2="148.48" y2="36.28"/>
+		<line class="st3" x1="486.3" y1="333.2" x2="486.3" y2="343.2"/>
 	</g>
 	<g id="LINE_13_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="160.48" y1="33.53" x2="160.48" y2="35.99"/>
+		<line class="st3" x1="524.9" y1="334.3" x2="524.9" y2="342.3"/>
 	</g>
 	<g id="LINE_14_">
-		
-			<line fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="169.48" y1="33.8" x2="169.48" y2="35.89"/>
+		<line class="st3" x1="553.9" y1="335.2" x2="553.9" y2="342"/>
 	</g>
 	<g id="LWPOLYLINE_3_">
-		
-			<path fill="none" stroke="#FF0000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M177.89,33.89h-5.4l-3-0.09l-0.5-0.01l-3.5-0.1l-3.5-0.1l-1.5-0.05l-2-0.06l-3.5-0.1l-3.5-0.11l-3-0.09l-4-0.12l-3.5-0.1l-3.5-0.1
-			l-1-0.03l-2.5-0.07l-0.75-0.02l-0.75-0.02l-0.76-0.02l-0.75-0.02l-3.5-0.1l-2.99-0.07l-4.01-0.09l-3.5-0.07l-3.5-0.06l-1-0.01
-			l-2.5-0.04l-3.5-0.04l-3.5-0.03l-2.5-0.02l-1-0.01l-3.5-0.01l-3.5,0l-3.5,0l-3.5,0.01l-1,0.01l-2.5,0.02l-3.5,0.03l-3.5,0.04
-			l-2.5,0.04l-1,0.01l-3.5,0.06l-3.5,0.07l-3.5,0.08l-0.49,0.01l-3.01,0.07l-3.5,0.1l-0.76,0.02l-0.75,0.02l-0.76,0.02l-0.74,0.02
-			l-2.51,0.08l-0.99,0.03l-3.5,0.1l-3.5,0.1l-4.01,0.12l-2.99,0.09l-3.5,0.11l-3.5,0.1l-2,0.06l-1.5,0.04l-3.5,0.1l-3.5,0.1
-			l-0.51,0.02l-2.99,0.09H7.08v2h5.41c1,0,2,0,3,0.01c3,0.01,6,0.04,9,0.09c4,0.07,8,0.16,12,0.29c4,0.13,8,0.3,12,0.49
-			c1.08,0.05,2.17,0.11,3.25,0.17h1.5c2.41-0.35,4.83-0.67,7.25-0.96c3.99-0.47,7.99-0.86,12-1.16c3.99-0.3,8-0.5,12-0.62
-			c2.67-0.08,5.33-0.12,8-0.12c2.67,0,5.33,0.04,8,0.12c4,0.12,8.01,0.32,12,0.62c4.01,0.3,8.01,0.68,12,1.15
-			c2.42,0.29,4.84,0.61,7.25,0.96h1.5c1.08-0.06,2.17-0.11,3.25-0.17c4-0.2,8-0.36,12-0.49c4-0.13,8-0.23,12-0.29
-			c3-0.05,6-0.08,9-0.09c1,0,2-0.01,3-0.01h5.41V33.89z"/>
+		<path class="st3" d="M581,335.5h-17.4l-9.7-0.3h-1.6l-11.3-0.3l-11.3-0.3l-4.8-0.1l-6.4-0.2l-11.3-0.3l-11.3-0.3l-9.7-0.3
+			l-12.9-0.4l-11.3-0.3l-11.3-0.3l-3.2-0.1l-8-0.2l-2.4-0.1l-2.4-0.1l-2.4-0.1l-2.4-0.1l-11.3-0.3l-9.6-0.2l-12.9-0.3l-11.3-0.2
+			l-11.3-0.2h-3.2l-8-0.1l-11.3-0.1l-11.3-0.1l-8.1-0.1h-3.2h-11.3h-11.3h-11.3h-11.3H280l-8,0.1l-11.3,0.1l-11.3,0.1l-8.1,0.1h-3.2
+			l-11.3,0.2l-11.3,0.2l-11.3,0.3h-1.6l-9.7,0.2l-11.3,0.3l-2.4,0.1l-2.4,0.1l-2.4,0.1l-2.4,0.1l-8.1,0.2l-3.2,0.1l-11.3,0.3
+			l-11.3,0.3l-12.9,0.4l-9.6,0.3l-11.3,0.3L93,334.3l-6.5,0.2l-4.8,0.1l-11.3,0.3l-11.3,0.3h-1.6l-9.6,0.3H31v6.4h17.4
+			c3.2,0,6.4,0,9.7,0c9.7,0,19.3,0.1,29,0.3c12.9,0.2,25.8,0.5,38.6,0.9c12.9,0.4,25.8,0.9,38.6,1.6c3.5,0.2,7,0.4,10.5,0.5h4.8
+			c7.8-1.1,15.5-2.2,23.3-3.1c12.8-1.5,25.7-2.8,38.6-3.7c12.9-1,25.7-1.6,38.6-2c8.6-0.3,17.2-0.4,25.8-0.4
+			c8.6,0,17.2,0.1,25.8,0.4c12.9,0.4,25.8,1,38.6,2c12.9,1,25.8,2.2,38.6,3.7c7.8,0.9,15.6,2,23.3,3.1h4.8c3.5-0.2,7-0.4,10.5-0.5
+			c12.9-0.6,25.8-1.2,38.6-1.6c12.9-0.4,25.8-0.7,38.6-0.9c9.7-0.2,19.3-0.3,29-0.3c3.2,0,6.4,0,9.7,0h17.4v-6.4H581z"/>
+	</g>
+	<g id="LINE_101_">
+		<line class="st3" x1="46.5" y1="526.6" x2="31" y2="526.6"/>
+	</g>
+	<g id="LINE_102_">
+		<line class="st3" x1="31" y1="526.6" x2="31" y2="533"/>
+	</g>
+	<g id="LINE_103_">
+		<line class="st3" x1="31" y1="533" x2="47.2" y2="533"/>
+	</g>
+</g>
+<g id="pondasi_x5F_A2">
+	<g id="LWPOLYLINE_4_">
+		<polygon class="st3" points="40.8,356.1 40.8,358.4 23.8,358.4 23.8,356.1 30.7,354.5 30.7,347.1 28.9,345.5 28.9,335.5 
+			30.6,335.5 30.6,343.9 35.5,343.9 35.5,345.5 33.9,347.1 33.9,354.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_5_">
+		<rect x="30.6" y="342.3" class="st3" width="3.3" height="1.6"/>
+	</g>
+	<g id="LWPOLYLINE_12_">
+		<rect x="31.8" y="341.9" class="st3" width="1.1" height="0.4"/>
+	</g>
+</g>
+<g id="pondasi_x5F_A1">
+	<g id="LWPOLYLINE_6_">
+		<rect x="579.1" y="341.9" class="st3" width="1.1" height="0.4"/>
+	</g>
+	<g id="LWPOLYLINE_7_">
+		<polygon class="st3" points="571.2,356.1 571.2,358.4 588.2,358.4 588.2,356.1 581.3,354.5 581.3,347.1 583.1,345.5 583.1,335.5 
+			581.4,335.5 581.4,343.9 576.5,343.9 576.5,345.5 578.1,347.1 578.1,354.5 		"/>
+	</g>
+	<g id="LWPOLYLINE_8_">
+		<rect x="578" y="342.3" class="st3" width="3.3" height="1.6"/>
+	</g>
+	<g id="LWPOLYLINE_11_">
+		<rect x="433.8" y="345.3" class="st3" width="1.9" height="0.5"/>
+	</g>
+</g>
+<g id="pondasi_x5F_P2">
+	<g id="LWPOLYLINE_9_">
+		<polygon class="st3" points="190.7,362.2 163.7,362.2 163.7,357 173.8,355.4 173.8,350 172.1,350 172.1,345.8 177.2,345.8 
+			182.4,345.8 182.4,350 180.6,350 180.6,355.4 190.7,357 		"/>
+	</g>
+	<g id="LWPOLYLINE_13_">
+		<rect x="176.2" y="345.3" class="st3" width="1.9" height="0.5"/>
+	</g>
+</g>
+<g id="pondasi_x5F_P1">
+	<g id="LWPOLYLINE_10_">
+		<polygon class="st3" points="439.9,345.8 434.8,345.8 429.6,345.8 429.6,350 431.4,350 431.4,355.4 421.3,357 421.3,362.2 
+			448.3,362.2 448.3,357 438.2,355.4 438.2,350 439.9,350 		"/>
 	</g>
 </g>
 <g id="construction_x5F_line">
 	<g id="LINE_63_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="52.48" y1="20.94" x2="52.48" y2="100.35"/>
+		<line class="st4" x1="177.2" y1="293.8" x2="177.2" y2="549.5"/>
 	</g>
 	<g id="LINE_64_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="132.48" y1="20.94" x2="132.48" y2="100.35"/>
+		<line class="st4" x1="434.8" y1="293.8" x2="434.8" y2="549.5"/>
 	</g>
 	<g id="LINE_65_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="177.48" y1="20.94" x2="177.48" y2="100.35"/>
+		<line class="st4" x1="579.7" y1="293.8" x2="579.7" y2="549.5"/>
 	</g>
 	<g id="LINE_66_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="7.48" y1="20.94" x2="7.48" y2="100.35"/>
+		<line class="st4" x1="32.3" y1="293.8" x2="32.3" y2="549.5"/>
 	</g>
 	<g id="LINE_67_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="7.48" y1="60.35" x2="177.48" y2="60.35"/>
+		<line class="st4" x1="32.3" y1="420.7" x2="579.7" y2="420.7"/>
 	</g>
 	<g id="LINE_68_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="29.98" y1="20.94" x2="29.98" y2="100.35"/>
+		<line class="st4" x1="104.8" y1="293.8" x2="104.8" y2="549.5"/>
 	</g>
 	<g id="LINE_69_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="92.48" y1="20.94" x2="92.48" y2="100.35"/>
+		<line class="st4" x1="306" y1="293.8" x2="306" y2="549.5"/>
 	</g>
 	<g id="LINE_70_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="154.98" y1="20.94" x2="154.98" y2="100.35"/>
+		<line class="st4" x1="507.2" y1="293.8" x2="507.2" y2="549.5"/>
 	</g>
 	<g id="LINE_75_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="7.48" y1="80.35" x2="177.48" y2="80.35"/>
+		<line class="st4" x1="32.3" y1="485.1" x2="579.7" y2="485.1"/>
 	</g>
-	<g id="LINE_80_">
-		
-			<line fill="none" stroke="#FF00FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="0.5,0.25" x1="7.48" y1="100.35" x2="177.48" y2="100.35"/>
+	<g id="LINE_76_">
+		<line class="st4" x1="32.3" y1="549.5" x2="579.7" y2="549.5"/>
 	</g>
 </g>
 <g id="annotation">
 	<g id="CIRCLE">
-		
-			<path fill="none" stroke="#0000FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M4.69,18.15c0-1.54,1.25-2.79,2.79-2.79s2.79,1.25,2.79,2.79s-1.25,2.79-2.79,2.79S4.69,19.69,4.69,18.15L4.69,18.15z"/>
+		<path class="st2" d="M23.3,284.8c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S23.3,289.8,23.3,284.8L23.3,284.8z"/>
 	</g>
 	<g id="TEXT">
-		<text transform="matrix(1 0 0 1 5.7545 19.1634)" fill="#0000FF" font-family="'ArialMT'" font-size="2.8632px">A2</text>
+		<text transform="matrix(1 0 0 1 26.7461 288.0848)" class="st5 st6 st7">A2</text>
 	</g>
 	<g id="CIRCLE_1_">
-		
-			<path fill="none" stroke="#0000FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M49.69,18.15c0-1.54,1.25-2.79,2.79-2.79c1.54,0,2.79,1.25,2.79,2.79s-1.25,2.79-2.79,2.79C50.94,20.94,49.69,19.69,49.69,18.15
-			L49.69,18.15z"/>
+		<path class="st2" d="M168.2,284.8c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S168.2,289.8,168.2,284.8L168.2,284.8z"/>
 	</g>
 	<g id="TEXT_1_">
-		<text transform="matrix(1 0 0 1 50.7524 19.1634)" fill="#0000FF" font-family="'ArialMT'" font-size="2.8632px">P2</text>
+		<text transform="matrix(1 0 0 1 171.6311 288.0848)" class="st5 st6 st7">P2</text>
 	</g>
 	<g id="CIRCLE_2_">
-		
-			<path fill="none" stroke="#0000FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M129.69,18.15c0-1.54,1.25-2.79,2.79-2.79c1.54,0,2.79,1.25,2.79,2.79s-1.25,2.79-2.79,2.79
-			C130.94,20.94,129.69,19.69,129.69,18.15L129.69,18.15z"/>
+		<path class="st2" d="M425.8,284.8c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S425.8,289.8,425.8,284.8L425.8,284.8z"/>
 	</g>
 	<g id="TEXT_2_">
-		<text transform="matrix(1 0 0 1 130.7524 19.1634)" fill="#0000FF" font-family="'ArialMT'" font-size="2.8632px">P1</text>
+		<text transform="matrix(1 0 0 1 429.2162 288.0848)" class="st5 st6 st7">P1</text>
 	</g>
 	<g id="CIRCLE_3_">
-		
-			<path fill="none" stroke="#0000FF" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-			M174.69,18.15c0-1.54,1.25-2.79,2.79-2.79c1.54,0,2.79,1.25,2.79,2.79s-1.25,2.79-2.79,2.79
-			C175.94,20.94,174.69,19.69,174.69,18.15L174.69,18.15z"/>
+		<path class="st2" d="M570.7,284.8c0-5,4-9,9-9s9,4,9,9s-4,9-9,9S570.7,289.8,570.7,284.8L570.7,284.8z"/>
 	</g>
 	<g id="TEXT_3_">
-		<text transform="matrix(1 0 0 1 175.7545 19.1634)" fill="#0000FF" font-family="'ArialMT'" font-size="2.8632px">A1</text>
+		<text transform="matrix(1 0 0 1 574.1145 288.0848)" class="st5 st6 st7">A1</text>
 	</g>
 	<g id="TEXT_4_">
-		<text transform="matrix(1 0 0 1 20.6159 7.2701)" fill="#0000FF" font-family="'ArialMT'" font-size="5.4118px">KUDUS</text>
+		<text transform="matrix(1 0 0 1 74.5971 249.7907)" class="st5 st6 st8">KUDUS</text>
 	</g>
 	<g id="TEXT_5_">
-		<text transform="matrix(1 0 0 1 145.4669 7.2701)" fill="#0000FF" font-family="'ArialMT'" font-size="5.4118px">DEMAK</text>
+		<text transform="matrix(1 0 0 1 476.5942 249.7907)" class="st5 st6 st8">DEMAK</text>
 	</g>
 </g>
 <g id="marker">
 	<g id="LINE_71_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.35" y1="60.35" x2="1.68" y2="60.35"/>
+		<line class="st9" x1="0.1" y1="420.7" x2="4.4" y2="420.7"/>
 	</g>
 	<g id="LINE_72_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.35" y1="59.03" x2="0.35" y2="61.68"/>
+		<line class="st9" x1="0.1" y1="416.4" x2="0.1" y2="425"/>
 	</g>
 	<g id="LWPOLYLINE_14_">
-		
-			<polyline fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			0.35,1.68 0.35,0.35 1.68,0.35 		"/>
+		<polyline class="st9" points="0.1,231.8 0.1,227.5 4.4,227.5 		"/>
 	</g>
 	<g id="LINE_73_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.35" y1="80.35" x2="1.68" y2="80.35"/>
+		<line class="st9" x1="0.1" y1="485.1" x2="4.4" y2="485.1"/>
 	</g>
 	<g id="LINE_74_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="0.35" y1="79.03" x2="0.35" y2="81.68"/>
+		<line class="st9" x1="0.1" y1="480.8" x2="0.1" y2="489.4"/>
 	</g>
-	<g id="LINE_76_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="184.61" y1="60.35" x2="183.29" y2="60.35"/>
+	<g id="LINE_106_">
+		<line class="st9" x1="48.4" y1="521.5" x2="45.4" y2="529.7"/>
 	</g>
-	<g id="LINE_77_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="184.61" y1="59.03" x2="184.61" y2="61.68"/>
+	<g id="LINE_107_">
+		<line class="st9" x1="45.4" y1="529.7" x2="48.4" y2="529.7"/>
 	</g>
-	<g id="LWPOLYLINE_15_">
-		
-			<polyline fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-			184.61,1.68 184.61,0.35 183.29,0.35 		"/>
+	<g id="LINE_108_">
+		<line class="st9" x1="48.4" y1="529.7" x2="45.4" y2="538"/>
 	</g>
-	<g id="LINE_78_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="184.61" y1="80.35" x2="183.29" y2="80.35"/>
+	<g id="LWPOLYLINE_25_">
+		<polyline class="st9" points="0.1,560.2 0.1,564.5 4.4,564.5 		"/>
 	</g>
-	<g id="LINE_79_">
-		
-			<line fill="none" stroke="#808080" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="184.61" y1="79.03" x2="184.61" y2="81.68"/>
+	<g id="LINE_109_">
+		<line class="st9" x1="611.9" y1="420.7" x2="607.6" y2="420.7"/>
+	</g>
+	<g id="LINE_110_">
+		<line class="st9" x1="611.9" y1="416.4" x2="611.9" y2="425"/>
+	</g>
+	<g id="LWPOLYLINE_26_">
+		<polyline class="st9" points="611.9,231.8 611.9,227.5 607.6,227.5 		"/>
+	</g>
+	<g id="LINE_111_">
+		<line class="st9" x1="611.9" y1="485.1" x2="607.6" y2="485.1"/>
+	</g>
+	<g id="LINE_112_">
+		<line class="st9" x1="611.9" y1="480.8" x2="611.9" y2="489.4"/>
+	</g>
+	<g id="LWPOLYLINE_27_">
+		<polyline class="st9" points="611.9,560.2 611.9,564.5 607.6,564.5 		"/>
 	</g>
 </g>
-<path id="curve_dyn" d="M 7.13,60 C 11.63,61 20.63,65 29.63,65 C 38.629999999999995,65 39.63,63.400000000000006 52.13,60 C 64.63,56.6 76.13,48 92.13,48 C 108.13,48 119.63,56 132.13,60 C 144.63,64 145.63,68 154.63,68 C 163.63,68 172.63,61.6 177.13,60" fill="none" stroke="grey" />
-<path id="dots" />
+<g id="tumpuan_x5F_P2">
+	<g id="LWPOLYLINE_15_">
+		<polygon class="st2" points="171,423.7 183.4,423.7 177.2,412.7 		"/>
+	</g>
+	<g id="LINE_77_">
+		<line class="st2" x1="188.4" y1="423.7" x2="166" y2="423.7"/>
+	</g>
+	<g id="LINE_78_">
+		<line class="st2" x1="166.6" y1="429.3" x2="169.7" y2="423.7"/>
+	</g>
+	<g id="LINE_79_">
+		<line class="st2" x1="170.4" y1="429.3" x2="173.5" y2="423.7"/>
+	</g>
+	<g id="LINE_80_">
+		<line class="st2" x1="174.1" y1="429.3" x2="177.2" y2="423.7"/>
+	</g>
+	<g id="LINE_81_">
+		<line class="st2" x1="177.9" y1="429.3" x2="180.9" y2="423.7"/>
+	</g>
+	<g id="LINE_82_">
+		<line class="st2" x1="181.6" y1="429.3" x2="184.7" y2="423.7"/>
+	</g>
+</g>
+<g id="tumpuan_x5F_P1">
+	<g id="LWPOLYLINE_16_">
+		<polygon class="st2" points="428.6,423.7 441,423.7 434.8,412.7 		"/>
+	</g>
+	<g id="LINE_83_">
+		<line class="st2" x1="446" y1="423.7" x2="423.6" y2="423.7"/>
+	</g>
+	<g id="LINE_84_">
+		<line class="st2" x1="424.2" y1="429.3" x2="427.3" y2="423.7"/>
+	</g>
+	<g id="LINE_85_">
+		<line class="st2" x1="428" y1="429.3" x2="431.1" y2="423.7"/>
+	</g>
+	<g id="LINE_86_">
+		<line class="st2" x1="431.7" y1="429.3" x2="434.8" y2="423.7"/>
+	</g>
+	<g id="LINE_87_">
+		<line class="st2" x1="435.4" y1="429.3" x2="438.5" y2="423.7"/>
+	</g>
+	<g id="LINE_88_">
+		<line class="st2" x1="439.2" y1="429.3" x2="442.3" y2="423.7"/>
+	</g>
+</g>
+<g id="tumpuan_x5F_A1">
+	<g id="LWPOLYLINE_17_">
+		<polygon class="st2" points="573.5,431.8 585.9,431.8 579.7,420.7 		"/>
+	</g>
+	<g id="LINE_89_">
+		<line class="st2" x1="590.9" y1="431.8" x2="568.5" y2="431.8"/>
+	</g>
+	<g id="LINE_90_">
+		<line class="st2" x1="569.1" y1="437.3" x2="572.2" y2="431.8"/>
+	</g>
+	<g id="LINE_91_">
+		<line class="st2" x1="572.9" y1="437.3" x2="575.9" y2="431.8"/>
+	</g>
+	<g id="LINE_92_">
+		<line class="st2" x1="576.6" y1="437.3" x2="579.7" y2="431.8"/>
+	</g>
+	<g id="LINE_93_">
+		<line class="st2" x1="580.3" y1="437.3" x2="583.4" y2="431.8"/>
+	</g>
+	<g id="LINE_94_">
+		<line class="st2" x1="584.1" y1="437.3" x2="587.2" y2="431.8"/>
+	</g>
+</g>
+<g id="curve_x5F_ori">
+	<g id="SPLINE">
+		<path class="st3" d="M32.3,420.7c48.3-3,96.6-6.1,144.9-8c85.8-3.5,171.8-3.5,257.6,0c48.3,2,96.6,5,144.9,8"/>
+	</g>
+</g>
+<path class="st2" d="M101.3,416.3c0-1.9,1.5-3.5,3.5-3.5c1.9,0,3.5,1.5,3.5,3.5c0,1.9-1.5,3.5-3.5,3.5
+	C102.9,419.7,101.3,418.2,101.3,416.3L101.3,416.3z"/>
+<g id="dot_x5F_1">
+	<g id="CIRCLE_5_">
+		<path class="st2" d="M302.5,410.1c0-1.9,1.5-3.5,3.5-3.5s3.5,1.5,3.5,3.5c0,1.9-1.5,3.5-3.5,3.5S302.5,412,302.5,410.1
+			L302.5,410.1z"/>
+	</g>
+</g>
+<g id="dot_x5F_2">
+	<g id="CIRCLE_6_">
+		<path class="st2" d="M503.8,416.3c0-1.9,1.5-3.5,3.5-3.5c1.9,0,3.5,1.5,3.5,3.5c0,1.9-1.5,3.5-3.5,3.5
+			C505.3,419.7,503.8,418.2,503.8,416.3L503.8,416.3z"/>
+	</g>
+</g>
+<g id="curve_x5F_dyn">
+	<g id="SPLINE_1_">
+		<path class="st2" d="M32.3,495.8c48.3-3,96.6-6.1,144.9-8c85.8-3.5,171.8-3.5,257.6,0c48.3,2,96.6,5,144.9,8"/>
+	</g>
+</g>
 </svg>
