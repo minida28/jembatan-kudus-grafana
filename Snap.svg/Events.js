@@ -1,12 +1,12 @@
 console.log("DATA POINTS", ctrl);
 
-var val0 = ctrl.series[0].datapoints[0][0];
+var val0 = ctrl.series[0].datapoints[0];
 // val0 = Number(val0.toFixed(2));
 
-var val1 = ctrl.series[1].datapoints[0][0];
+var val1 = ctrl.series[1].datapoints[0];
 // val1 = Number(val1.toFixed(2))/2;
 
-var val2 = ctrl.series[2].datapoints[0][0];
+var val2 = ctrl.series[2].datapoints[0];
 // val2 = Number(val2.toFixed(2))/2;
 
 // console.log("DATA POINTS",ctrl.series[0].datapoints);
@@ -145,13 +145,13 @@ if (main_svg) {
     // the new arrays will still reference to the old array and changing one will affect the other
     // see https://stackoverflow.com/a/45813800
 
-    points = JSON.parse(JSON.stringify(pointsInit))
+    points = JSON.parse(JSON.stringify(pointsInit));
 
     // Math.floor(Math.random() * 100)
     // randArray = [rand(0, 100), rand(0, 100), rand(0, 100)]
-    points[1][1] = pointsInit[1][1] + val0;
-    points[3][1] = pointsInit[3][1] - val1;
-    points[5][1] = pointsInit[5][1] + val2;
+    points[1][1] = pointsInit[1][1] + val0[0]
+    points[3][1] = pointsInit[3][1] - val1[0]
+    points[5][1] = pointsInit[5][1] + val2[0]
 
 
     // console.log(settle_1, settle_2, settle_3);
@@ -245,6 +245,12 @@ if (main_svg) {
             text: val
         })
     });
+
+    // Update timestamp text
+    timestamp = s.select("#timestamp")
+    timestamp.attr({
+        text: val[1]
+    })
 
 }
 else if (main_svg === undefined) {
