@@ -1,27 +1,50 @@
-console.log("DATA POINTS", ctrl);
+//--------- Helper Functions
+function precise_round(num, dec){
+ 
+    if ((typeof num !== 'number') || (typeof dec !== 'number')) 
+        return false; 
 
-var val0 = ctrl.series[2].stats.current;
+    var num_sign = num >= 0 ? 1 : -1;
+    
+    return (Math.round((num*Math.pow(10,dec))+(num_sign*0.0001))/Math.pow(10,dec)).toFixed(dec);
+}
 
-// val0 = Number(val0.toFixed(2));
 
-var val1 = ctrl.series[3].stats.current;
-// val1 = Number(val1.toFixed(2));
+//------ Start of Script
 
-// var val2 = ctrl.series[2].datapoints[0];
-// val2 = Number(val2.toFixed(2))/2;
+// console.log("DATA POINTS", ctrl);
+// console.log("label", ctrl.series[0].label);
 
-var val2 = ctrl.series[4].stats.current;
-// val2 = Number(val2.toFixed(2));
+var val0 = [null,null];
+var val1 = [null,null];
+var val2 = [null,null];
+var val3 = [null,null];
+var val4 = [null,null];
 
-var val3 = ctrl.series[0].stats.current;
-var val4 = ctrl.series[1].stats.current;
 
-console.log('Settlement =', val0, val2, val2, val3, val4);
+var i = 0;
+for (i = 0; i < ctrl.series.length; i++) {
+    label = ctrl.series[i].label;
+    count = ctrl.series[i].stats.count;
+    // current_value = ctrl.series[i].stats.current;
+    current_value = ctrl.series[i].datapoints[count-1];
+    // current_value = ctrl.series[i].datapoints[0];
+    if (label === 'A2_P2') {
+         val0 = current_value;
+      } else if (label === 'TENGAH') {
+          val1 = current_value;
+      } else if (label === 'P1_A1') {
+          val2 = current_value;
+      } else if (label === 'A2') {
+          val3 = current_value;
+      } else if (label === 'A1') {
+          val4 = current_value;
+      }
+}
 
-// console.log("DATA POINTS",ctrl.series[0].datapoints);
-// console.log("DATA POINTS",ctrl);
+console.log(val0, val1, val2, val3, val4)
 
-// console.log(val0, val1, val2);
+
 
 
 // Properties of a line 
@@ -61,6 +84,7 @@ const controlPoint = (current, previous, next, reverse) => {
     // The control point position is relative to the current point
     const x = current[0] + Math.cos(angle) * length;
     const y = current[1] + Math.sin(angle) * length;
+    return [x, y];
 };
 
 // Create the bezier curve command 
@@ -68,15 +92,15 @@ const controlPoint = (current, previous, next, reverse) => {
 //     - i (integer): index of 'point' in the array 'a'
 //     - a (array): complete array of points coordinates
 // O:  - (string) 'C x2,y2 x1,y1 x,y': SVG cubic bezier C command
-            const bezierCommand = (point, i, a) => {
+const bezierCommand = (point, i, a) => {
 
-                // start control point
-                const cps = controlPoint(a[i - 1], a[i - 2], point)
+    // start control point
+    const cps = controlPoint(a[i - 1], a[i - 2], point);
 
-                // end control point
-                const cpe = controlPoint(point, a[i - 1], a[i + 1], true)
-                return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`
-            }
+    // end control point
+    const cpe = controlPoint(point, a[i - 1], a[i + 1], true);
+    return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
+};
 
 // Render the svg <path> element 
 // I:  - points (array): points coordinates
@@ -115,9 +139,7 @@ var curveShiftPoints = [0, -13.78, -25, -33.07, -25, -13.78, 0];
 var pointsInit = new Array(7);
 var points = [];
 
-var lvdtVals = [0,
-                0
-                ];
+var lvdtVals = [0, 0];
 
 var lvdtValArray = [
     // [xStart + 46, yStart + 266],
@@ -156,15 +178,12 @@ if (main_svg) {
     // see https://stackoverflow.com/a/45813800
 
     points = JSON.parse(JSON.stringify(pointsInit));
-    // console.log(points);
 
     // Math.floor(Math.random() * 100)
     // randArray = [rand(0, 100), rand(0, 100), rand(0, 100)]
-    points[1][1] = pointsInit[1][1] + val0;
-    points[3][1] = pointsInit[3][1] + val1;
-    points[5][1] = pointsInit[5][1] + val2;
-    
-    console.log('points', points);
+    points[1][1] = pointsInit[1][1] - val0[0];
+    points[3][1] = pointsInit[3][1] - val1[0];
+    points[5][1] = pointsInit[5][1] - val2[0];
 
 
     // console.log(settle_1, settle_2, settle_3);
@@ -173,11 +192,11 @@ if (main_svg) {
 
     // curve_dyn = s.path(svgPath(points, bezierCommand));
     d = svgPath(points, bezierCommand);
-    console.log('d', d);
+    // console.log(d);
     // console.log(d.length, d);
     // console.log(d.splice(4, 10))
     var res = d.slice(4, -3);
-    console.log('res',res)
+    // console.log(res)
 
     var animate = true;
     var t_Animate = 1000;
@@ -225,13 +244,31 @@ if (main_svg) {
             var dotHeight = (dot.getBBox().y2 - dot.getBBox().y);
             if (points[index][1] <= pointsInit[index][1]) {
                 yTxt = yLast - dotHeight / 2 - 10;
-                // yTxt = Number(val0.toFixed(2));
             } else {
                 yTxt = yLast + dotHeight / 2 + 0 + txtHeight;
             }
 
+            
+            if (index == 1)
+                txtVal = val0[0];
+            else if (index == 3)
+                txtVal = val1[0];
+            else if (index == 5)
+                txtVal = val2[0];
+                
+            // Add 'mm' if value is not null
+            if (txtVal === null) {
+                txtVal = 'Unknown';
+            } else {
+                txtVal = precise_round(txtVal, 2) + ' mm';
+            }
+            
+            console.log(txtVal)
+            
+            // change the text attribute
             txt.attr({
-                text: (pointsInit[index][1] - points[index][1]) + 'mm'
+                // text: (pointsInit[index][1] - points[index][1]) + 'mm'
+                text: txtVal
             });
 
             if (animate)
@@ -251,22 +288,28 @@ if (main_svg) {
         var txt = s.select(strTxt);
 
         if (index == 0)
-            // val = (pointsInit[1][1] - points[1][1]) + 'mm';
-            val = ctrl.series[0].stats.current;
-        else
-            // val = (pointsInit[3][1] - points[3][1]) + 'mm';
-            val = ctrl.series[1].stats.current;
+            txtVal = val3[0];
+        else 
+            txtVal = val4[0];
+
+            
+        // Add 'mm' if value is not null
+        if (txtVal === null) {
+            txtVal = 'Unknown';
+        } else {
+            txtVal = precise_round(txtVal, 1) + ' mm';
+        }
 
         txt.attr({
             // text: (pointsInit[index][1] - points[index][1]) + 'mm'
-            text: val
+            text: txtVal
         });
     });
 
     // Update timestamp text
     timestamp = s.select("#timestamp");
     
-    dateStr = new Date(val0[1])
+    dateStr = new Date(val4[1])
     var options = {
         weekday: 'long',
         year: 'numeric',
