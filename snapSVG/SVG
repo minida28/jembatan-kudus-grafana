@@ -1,0 +1,13 @@
+<svg id='kudus_svg' viewBox="0 0 1900 1150" version="1.1" xmlns="http://www.w3.org/2000/svg" class="svg"
+                    style="fill:#bada55;stroke:'none;">
+
+<!--<path d="M 7.13,60 C 11.63,61 20.63,65 29.63,65 C 38.629999999999995,65 39.63,63.400000000000006 52.13,60 C 64.63,56.6 76.13,48 92.13,48 C 108.13,48 119.63,56 132.13,60 C 144.63,64 145.63,68 154.63,68 C 163.63,68 172.63,61.6 177.13,60" fill="none" stroke="grey" />-->
+ <!--<path id="curve_dyn" d="M 100,600 C 145,597.244 235,591.22 325,586.22 C 415,581.22 425,578.8580000000001 550,575 C 675,571.1419999999999 790,566.93 950,566.93 C 1110,566.93 1225,571.142 1350,575 C 1475,578.8580000000001 1485,581.22 1575,586.22 C 1665,591.22 1755,597.244 1800,600" fill="none" stroke="grey"></path>-->
+<!--<circle id="dot_0" cx="325" cy="586.22" r="5" fill="#bada55" stroke="#000000" style="stroke-width: 1;"></circle>-->
+<!--<circle  id="dot_1" cx="950" cy="566.93" r="5" fill="#bada55" stroke="#000000" style="stroke-width: 1;"></circle>-->
+<!--<circle id="dot_2" cx="1575" cy="586.22" r="5" fill="#bada55" stroke="#000000" style="stroke-width: 1;"></circle>-->
+</svg>
+
+<script type="text/javascript">
+// var points = [];
+</script>
