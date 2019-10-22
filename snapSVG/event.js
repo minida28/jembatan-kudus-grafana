@@ -9,44 +9,6 @@ function precise_round(num, dec){
     return (Math.round((num*Math.pow(10,dec))+(num_sign*0.0001))/Math.pow(10,dec)).toFixed(dec);
 }
 
-
-//------ Start of Script
-
-// console.log("DATA POINTS", ctrl);
-// console.log("label", ctrl.series[0].label);
-
-var val0 = [null,null];
-var val1 = [null,null];
-var val2 = [null,null];
-var val3 = [null,null];
-var val4 = [null,null];
-
-
-var i = 0;
-for (i = 0; i < ctrl.series.length; i++) {
-    label = ctrl.series[i].label;
-    count = ctrl.series[i].stats.count;
-    // current_value = ctrl.series[i].stats.current;
-    current_value = ctrl.series[i].datapoints[count-1];
-    // current_value = ctrl.series[i].datapoints[0];
-    if (label === 'A2_P2') {
-         val0 = current_value;
-      } else if (label === 'TENGAH') {
-          val1 = current_value;
-      } else if (label === 'P1_A1') {
-          val2 = current_value;
-      } else if (label === 'A2') {
-          val3 = current_value;
-      } else if (label === 'A1') {
-          val4 = current_value;
-      }
-}
-
-console.log(val0, val1, val2, val3, val4)
-
-
-
-
 // Properties of a line 
 // I:  - pointA (array) [x,y]: coordinates
 //     - pointB (array) [x,y]: coordinates
@@ -119,6 +81,48 @@ const svgPath = (points, command) => {
     return `<path d="${d}" fill="none" stroke="grey" />`;
     // return `${d}`
 };
+
+
+//------ Start of Script
+
+console.log("DATA POINTS", ctrl.series);
+// console.log("label", ctrl.series[0].label);
+
+var val0 = [null,null];
+var val1 = [null,null];
+var val2 = [null,null];
+var val3 = [null,null];
+var val4 = [null,null];
+
+
+var i = 0;
+for (i = 0; i < ctrl.series.length; i++) {
+    label = ctrl.series[i].label;
+    count = ctrl.series[i].stats.count;
+    // current_value = ctrl.series[i].stats.current;
+    // current_value = ctrl.series[i].stats.current;
+    // current_value = ctrl.series[i].datapoints[0];
+    len = ctrl.series[i].datapoints.length;
+    last_value = ctrl.series[i].datapoints[len-1];
+    if (label === 'A2_P2') {
+        val0 = last_value;
+    } else if (label === 'TENGAH') {
+        val1 = last_value;
+    } else if (label === 'P1_A1') {
+        val2 = last_value;
+    } else if (label === 'A2') {
+        val3 = last_value;
+    } else if (label === 'A1') {
+        val4 = last_value;
+    }
+}
+
+console.log(val0[0], val1[0], val2[0], val3[0], val4[0])
+
+
+
+
+
 
 
 
