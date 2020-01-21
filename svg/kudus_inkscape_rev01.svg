@@ -601,7 +601,7 @@
    id="horLine_0"
    style="stroke:#999999;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:18, 18;stroke-dashoffset:0;stroke-opacity:1"
    inkscape:label="#horLine_0"
-   transform="translate(0.76068187,0.750075)">
+   transform="translate(-1.2393181,0.750075)">
 		<line
    class="st4"
    x1="100"
@@ -1193,15 +1193,16 @@
      id="tspan1669-9">N/A</tspan></text>
 
 <path
-   id="path1111"
+   id="tumpuan_A2"
    style="opacity:1;fill:none;fill-opacity:0.99664432;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98666669"
    d="m 114.13568,648.47507 a 13.375,13.375 0 0 1 -13.375,13.375 13.375,13.375 0 0 1 -13.374998,-13.375 13.375,13.375 0 0 1 13.374998,-13.375 13.375,13.375 0 0 1 13.375,13.375 z m 0.26501,30.54504 9.57996,-17.17004 m -21.18994,17.17004 9.57996,-17.17004 m -21.200018,17.17004 9.590028,-17.17004 m -21.200008,17.17004 9.59002,-17.17004 m -21.20001,17.17004 9.59003,-17.17004 m 58.049988,0 H 65.930662 m 15.66002,-26.74999 h 38.339998 l -19.17,-34.35 z"
    inkscape:connector-curvature="0" /><path
-   id="path1111-9"
+   id="tumpuan_P1"
    style="opacity:1;fill:none;fill-opacity:0.99664432;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98666669"
    d="m 1364.1357,648.47506 a 13.375,13.375 0 0 1 -13.375,13.375 13.375,13.375 0 0 1 -13.375,-13.375 13.375,13.375 0 0 1 13.375,-13.375 13.375,13.375 0 0 1 13.375,13.375 z m 0.2651,30.54504 9.5799,-17.17004 m -21.1899,17.17004 9.5799,-17.17004 m -21.2,17.17004 9.59,-17.17004 m -21.2,17.17004 9.5901,-17.17004 m -21.2001,17.17004 9.5901,-17.17004 m 58.05,0 h -69.6601 m 15.66,-26.74999 h 38.34 l -19.17,-34.35 z"
    inkscape:connector-curvature="0" /><path
-   id="path1111-9-9"
+   id="tumpuan_A1"
    style="opacity:1;fill:none;fill-opacity:0.99664432;fill-rule:nonzero;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98666669"
    d="m 1814.1357,648.47506 a 13.375,13.375 0 0 1 -13.375,13.375 13.375,13.375 0 0 1 -13.375,-13.375 13.375,13.375 0 0 1 13.375,-13.375 13.375,13.375 0 0 1 13.375,13.375 z m 0.2651,30.54504 9.5799,-17.17004 m -21.1899,17.17004 9.5799,-17.17004 m -21.2,17.17004 9.59,-17.17004 m -21.2,17.17004 9.5901,-17.17004 m -21.2001,17.17004 9.5901,-17.17004 m 58.05,0 h -69.6601 m 15.66,-26.74999 h 38.34 l -19.17,-34.35 z"
-   inkscape:connector-curvature="0" /></svg>
+   inkscape:connector-curvature="0"
+   inkscape:label="#tumpuan_A1" /></svg>
